@@ -1,64 +1,32 @@
-A Brief Lesson in Native American Astronomy by Rebecca Roanhorse: https://apex-magazine.com/short-fiction/a-brief-lesson-in-native-american-astronomy/
-
-Aethra by Michalis Manolios: https://apex-magazine.com/short-fiction/aethra/
-
-An Incident at Hellpoint Prime by Norris Black: https://apex-magazine.com/short-fiction/an-incident-at-hellpoint-prime/
-
-COTTONMOUTH by Joelle Wellington: https://apex-magazine.com/short-fiction/cottonmouth/
-
-Candyland by Maggie Slater: https://apex-magazine.com/short-fiction/candyland/
-
-Deep Night by Tenea D. Johnson: https://apex-magazine.com/short-fiction/deep-night/
-
-Discontinuity by Jared Millet: https://apex-magazine.com/short-fiction/discontinuity/
-
-Dogwood Stories by Nicole Givens Kurtz: https://apex-magazine.com/short-fiction/dogwood-stories/
-
-Dreamports by Tlotlo Tsamaase: https://apex-magazine.com/short-fiction/dreamports/
-
-Francine (draft for the September lecture) by Maria Antònia Martí Escayol: https://apex-magazine.com/short-fiction/francine-draft-for-the-september-lecture/
-
-Gift for the Cutter Man by D. Thomas Minton: https://apex-magazine.com/short-fiction/gift-for-the-cutter-man/
-
-Godmother by Cheryl S. Ntumy: https://apex-magazine.com/short-fiction/godmother/
-
-Hank in the South Dakota Sun by Stephanie Kraner: https://apex-magazine.com/short-fiction/hank-in-the-south-dakota-sun/
-
-Happy Trails by Theodore C. Van Alst, Jr.: https://apex-magazine.com/short-fiction/happy-trails/
-
-I Call Upon the Night as Witness by Zahra Mukhi: https://apex-magazine.com/short-fiction/i-call-upon-the-night-as-witness/
-
-In Haskins by Carson Winter: https://apex-magazine.com/short-fiction/in-haskins/
-
-Marked by Bears by Jessie Loyer: https://apex-magazine.com/short-fiction/marked-by-bears/
-
-Next to Cleanliness by Rose Keating: https://apex-magazine.com/short-fiction/next-to-cleanliness/
-
-Robin’s Last Song by Nina Munteanu: https://apex-magazine.com/short-fiction/robins-last-song/
-
-Samsāra in a Teacup by Lavanya Lakshminarayan: https://apex-magazine.com/short-fiction/samsara-in-a-teacup/
-
-Security Breach at Sugar Pine Suites by Pamela Rentz: https://apex-magazine.com/short-fiction/security-breach-at-sugar-pine-suites/
-
-Soil of Our Home, Storm of Our Lives by Renan Bernardo: https://apex-magazine.com/short-fiction/soil-of-our-home-storm-of-our-lives/
-
-Spirits of the Broken Lands by Kevin Wabaunsee: https://apex-magazine.com/short-fiction/spirits-of-the-broken-lands/
-
-The Ever-Dreaming Verdict of Plagues by Jason Sanford: https://apex-magazine.com/short-fiction/the-ever-dreaming-verdict-of-plagues/
-
-The Rat by Yohanca Delgado: https://apex-magazine.com/short-fiction/the-rat/
-
-The synchronism of touch by Gabriela Damián Miravete: https://apex-magazine.com/short-fiction/the-synchronism-of-touch/
-
-This Shattered Vessel, Which Holds Only Grief by Izzy Wasserstein: https://apex-magazine.com/short-fiction/this-shattered-vessel-which-holds-only-grief/
-
-Thresher of Men by Michael Boatman: https://apex-magazine.com/short-fiction/thresher-of-men/
-
-To Seek Himself Again by Marie Croke: https://apex-magazine.com/short-fiction/to-seek-himself-again/
-
-Wake Up, I Miss You by Rachel Swirsky: https://apex-magazine.com/short-fiction/wake-up-i-miss-you/
-
-When Evening Arrives by Tiffany Morris: https://apex-magazine.com/short-fiction/when-evening-arrives/
-
-Whose Mortal Taste by E.K. Wagner: https://apex-magazine.com/short-fiction/whose-mortal-taste/
-
+ - [A Brief Lesson in Native American Astronomy](https://apex-magazine.com/short-fiction/a-brief-lesson-in-native-american-astronomy/) by Rebecca Roanhorse
+ - [Aethra](https://apex-magazine.com/short-fiction/aethra/) by Michalis Manolios
+ - [An Incident at Hellpoint Prime](https://apex-magazine.com/short-fiction/an-incident-at-hellpoint-prime/) by Norris Black
+ - [COTTONMOUTH](https://apex-magazine.com/short-fiction/cottonmouth/) by Joelle Wellington
+ - [Candyland](https://apex-magazine.com/short-fiction/candyland/) by Maggie Slater
+ - [Deep Night](https://apex-magazine.com/short-fiction/deep-night/) by Tenea D. Johnson
+ - [Discontinuity](https://apex-magazine.com/short-fiction/discontinuity/) by Jared Millet
+ - [Dogwood Stories](https://apex-magazine.com/short-fiction/dogwood-stories/) by Nicole Givens Kurtz
+ - [Dreamports](https://apex-magazine.com/short-fiction/dreamports/) by Tlotlo Tsamaase
+ - [Francine (draft for the September lecture)](https://apex-magazine.com/short-fiction/francine-draft-for-the-september-lecture/) by Maria Antònia Martí Escayol
+ - [Gift for the Cutter Man](https://apex-magazine.com/short-fiction/gift-for-the-cutter-man/) by D. Thomas Minton
+ - [Godmother](https://apex-magazine.com/short-fiction/godmother/) by Cheryl S. Ntumy
+ - [Hank in the South Dakota Sun](https://apex-magazine.com/short-fiction/hank-in-the-south-dakota-sun/) by Stephanie Kraner
+ - [Happy Trails](https://apex-magazine.com/short-fiction/happy-trails/) by Theodore C. Van Alst, Jr.
+ - [I Call Upon the Night as Witness](https://apex-magazine.com/short-fiction/i-call-upon-the-night-as-witness/) by Zahra Mukhi
+ - [In Haskins](https://apex-magazine.com/short-fiction/in-haskins/) by Carson Winter
+ - [Marked by Bears](https://apex-magazine.com/short-fiction/marked-by-bears/) by Jessie Loyer
+ - [Next to Cleanliness](https://apex-magazine.com/short-fiction/next-to-cleanliness/) by Rose Keating
+ - [Robin’s Last Song](https://apex-magazine.com/short-fiction/robins-last-song/) by Nina Munteanu
+ - [Samsāra in a Teacup](https://apex-magazine.com/short-fiction/samsara-in-a-teacup/) by Lavanya Lakshminarayan
+ - [Security Breach at Sugar Pine Suites](https://apex-magazine.com/short-fiction/security-breach-at-sugar-pine-suites/) by Pamela Rentz
+ - [Soil of Our Home, Storm of Our Lives](https://apex-magazine.com/short-fiction/soil-of-our-home-storm-of-our-lives/) by Renan Bernardo
+ - [Spirits of the Broken Lands](https://apex-magazine.com/short-fiction/spirits-of-the-broken-lands/) by Kevin Wabaunsee
+ - [The Ever-Dreaming Verdict of Plagues](https://apex-magazine.com/short-fiction/the-ever-dreaming-verdict-of-plagues/) by Jason Sanford
+ - [The Rat](https://apex-magazine.com/short-fiction/the-rat/) by Yohanca Delgado
+ - [The synchronism of touch](https://apex-magazine.com/short-fiction/the-synchronism-of-touch/) by Gabriela Damián Miravete
+ - [This Shattered Vessel, Which Holds Only Grief](https://apex-magazine.com/short-fiction/this-shattered-vessel-which-holds-only-grief/) by Izzy Wasserstein
+ - [Thresher of Men](https://apex-magazine.com/short-fiction/thresher-of-men/) by Michael Boatman
+ - [To Seek Himself Again](https://apex-magazine.com/short-fiction/to-seek-himself-again/) by Marie Croke
+ - [Wake Up, I Miss You](https://apex-magazine.com/short-fiction/wake-up-i-miss-you/) by Rachel Swirsky
+ - [When Evening Arrives](https://apex-magazine.com/short-fiction/when-evening-arrives/) by Tiffany Morris
+ - [Whose Mortal Taste](https://apex-magazine.com/short-fiction/whose-mortal-taste/) by E.K. Wagner

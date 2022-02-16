@@ -3,7 +3,7 @@ import os
 def write_list(fname, stories):
     with open(fname, 'w') as f:
         for title, author, href in sorted(list(stories), key=lambda el: el[0]):
-            f.write(f"{title} by {author}: {href}\n\n")
+            f.write(f" - [{title}]({href}) by {author}\n")
 
 if __name__ == "__main__":
     output = ''

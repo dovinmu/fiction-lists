@@ -1,106 +1,53 @@
-A Day in the Life of Anmar 20X1 by Abdulla Moaswes: http://strangehorizons.com/fiction/a-day-in-the-life-of-anmar-20x1/
-
-A Serpent For Each Year by Tamara Jerée: http://strangehorizons.com/fiction/a-serpent-for-each-year/
-
-A Welling Up by Natalia Theodoridou: http://strangehorizons.com/fiction/a-welling-up/
-
-According to Leibniz (maybe this isn’t what he meant); or, Rasharelle Little: Goddess of Postal Worker NBs by Isana Skeete: http://strangehorizons.com/fiction/according-to-leibniz-maybe-this-isnt-what-he-meant-or-rasharelle-little-goddess-of-postal-worker-nbs/
-
-All Us Ghosts by B. PladekArt by: Johnny Anger: http://strangehorizons.com/fiction/all-us-ghosts/
-
-An Array of Worlds as a Rose Unfurling in Time by Shreya Ila AnasuyaArt by: Jenny Eickbush: http://strangehorizons.com/fiction/an-array-of-worlds-as-a-rose-unfurling-in-time/
-
-An Exploration of Nichole Otieno’s Early Filmography (1232-1246) by Kola Heyward-Rotimi: http://strangehorizons.com/fiction/an-exploration-of-nichole-otienos-early-filmography-1232-1246/
-
-Balfour in the Desert by Fargo Tbakhi: http://strangehorizons.com/fiction/balfour-in-the-desert/
-
-Bathymetry by Lorraine Wilson: http://strangehorizons.com/fiction/bathymetry/
-
-Bespoke Nightmares by Carolina ValentineArt by: Nina Satie: http://strangehorizons.com/fiction/bespoke-nightmares/
-
-Blood We Cannot Wash Away by Karina Ko: http://strangehorizons.com/fiction/blood-we-cannot-wash-away/
-
-Campfire Stories by Rachael Cupp: http://strangehorizons.com/fiction/campfire-stories/
-
-Cocoon by H. PueyoArt by: Gianne Encarnacion: http://strangehorizons.com/fiction/cocoon/
-
-Coiffeur Seven by Kiran Kaur Saini: http://strangehorizons.com/fiction/coiffeur-seven/
-
-Data Migration by Melanie Harding-Shaw: http://strangehorizons.com/fiction/data-migration/
-
-Dragons by Teresa Milbrodt: http://strangehorizons.com/fiction/dragons/
-
-First Times by Nibedita Sen: http://strangehorizons.com/fiction/first-times/
-
-Haja Hoje by Anna MartinoArt by: Palloma Barreto: http://strangehorizons.com/fiction/haja-hoje/
-
-Harun by Ryah Aqel: http://strangehorizons.com/fiction/harun/
-
-Heat From Fire by Anna Anthropy: http://strangehorizons.com/fiction/heat-from-fire/
-
-Intimacies by Filip Hajdar Drnovšek ZorkoArt by: Dominique Ramsey: http://strangehorizons.com/fiction/intimacies/
-
-Introduction: Strange Lusts by Sharang Biswas Yeonsoo Julian Kim: http://strangehorizons.com/fiction/introduction-strange-lusts/
-
-Little Lila by Susannah Rand: http://strangehorizons.com/fiction/little-lila/
-
-Motivation Augmentation by Clara Ward: http://strangehorizons.com/fiction/motivation-augmentation/
-
-Mouth by Sasha LaPointe: http://strangehorizons.com/fiction/mouth/
-
-Native Country by Karim KattanArt by: Aya Ghanameh: http://strangehorizons.com/fiction/native-country/
-
-Night Shift by Max Franciscovich: http://strangehorizons.com/fiction/night-shift/
-
-Ootheca by Mário de Seabra Coelho: http://strangehorizons.com/fiction/ootheca/
-
-Pockets by Strange Horizons: http://strangehorizons.com/fiction/pockets/
-
-Sandrine by Alexandra Munck: http://strangehorizons.com/fiction/sandrine/
-
-Scoria by Liza Wemakor: http://strangehorizons.com/fiction/scoria/
-
-Secrets of the Kath by Fatima TaqviArt by: Juliana Pinho: http://strangehorizons.com/fiction/secrets-of-the-kath/
-
-Si Shou by E. A. Xiong: http://strangehorizons.com/fiction/si-shou/
-
-Surat Dari Hantu by Lisabelle Tay: http://strangehorizons.com/fiction/surat-dari-hantu/
-
-Temporal Slider by Blaze Forbes: http://strangehorizons.com/fiction/temporal-slider/
-
-The Cataloguer of Deceit by Ian Rosales Casocot: http://strangehorizons.com/fiction/the-cataloguer-of-deceit/
-
-The Center of the Universe by Nadia Shammas: http://strangehorizons.com/fiction/the-center-of-the-universe/
-
-The Chicken House by Jenny FriedArt by: Sunmi: http://strangehorizons.com/fiction/the-chicken-house/
-
-The Constellations Are Unrecognizable Here by Andrew Joseph White: http://strangehorizons.com/fiction/the-constellations-are-unrecognizable-here/
-
-The Demon Sage's Daughter by Varsha DineshArt by: Emma Weakley: http://strangehorizons.com/fiction/the-demon-sages-daughter/
-
-The Giant with No Heart in Her Body by Nike SulwayArt by: Elaine Ho: http://strangehorizons.com/fiction/the-giant-with-no-heart-in-her-body/
-
-The Golden Carrot by K. S. Shere: http://strangehorizons.com/fiction/the-golden-carrot/
-
-The Loneliness of Former Constellations by P. H. Low: http://strangehorizons.com/fiction/the-loneliness-of-former-constellations/
-
-The Thirteenth Knot by Yeonsoo Julian Kim: http://strangehorizons.com/fiction/the-thirteenth-knot/
-
-The karyōbinga sings to Jiro by Ryu Ando: http://strangehorizons.com/fiction/the-karyobinga-sings-to-jiro/
-
-Thread Count by Cynthia Gómez: http://strangehorizons.com/fiction/thread-count/
-
-Tower of Ivory, Tower of Horn by Reno EvangelistaArt by: Grace Fong: http://strangehorizons.com/fiction/tower-of-ivory-tower-of-horn/
-
-We Broke Nairobi by Noel Cheruto: http://strangehorizons.com/fiction/we-broke-nairobi/
-
-What Floats in a Flotsam River by Osahon Ize-Iyamu: http://strangehorizons.com/fiction/what-floats-in-a-flotsam-river/
-
-Wills by Wadih Haddad | وديع الحداد: http://strangehorizons.com/fiction/wills/
-
-Women Want Me, Fish Fear Me by Paris Green: http://strangehorizons.com/fiction/women-want-me-fish-fear-me/
-
-Yearning by Maya Beck: http://strangehorizons.com/fiction/yearning/
-
-ارادات by Wadih Haddad | وديع الحداد: http://strangehorizons.com/fiction/%d8%a7%d8%b1%d8%a7%d8%af%d8%a7%d8%aa/
-
+ - [A Day in the Life of Anmar 20X1](http://strangehorizons.com/fiction/a-day-in-the-life-of-anmar-20x1/) by Abdulla Moaswes
+ - [A Serpent For Each Year](http://strangehorizons.com/fiction/a-serpent-for-each-year/) by Tamara Jerée
+ - [A Welling Up](http://strangehorizons.com/fiction/a-welling-up/) by Natalia Theodoridou
+ - [According to Leibniz (maybe this isn’t what he meant); or, Rasharelle Little: Goddess of Postal Worker NBs](http://strangehorizons.com/fiction/according-to-leibniz-maybe-this-isnt-what-he-meant-or-rasharelle-little-goddess-of-postal-worker-nbs/) by Isana Skeete
+ - [All Us Ghosts](http://strangehorizons.com/fiction/all-us-ghosts/) by B. PladekArt by: Johnny Anger
+ - [An Array of Worlds as a Rose Unfurling in Time](http://strangehorizons.com/fiction/an-array-of-worlds-as-a-rose-unfurling-in-time/) by Shreya Ila AnasuyaArt by: Jenny Eickbush
+ - [An Exploration of Nichole Otieno’s Early Filmography (1232-1246)](http://strangehorizons.com/fiction/an-exploration-of-nichole-otienos-early-filmography-1232-1246/) by Kola Heyward-Rotimi
+ - [Balfour in the Desert](http://strangehorizons.com/fiction/balfour-in-the-desert/) by Fargo Tbakhi
+ - [Bathymetry](http://strangehorizons.com/fiction/bathymetry/) by Lorraine Wilson
+ - [Bespoke Nightmares](http://strangehorizons.com/fiction/bespoke-nightmares/) by Carolina ValentineArt by: Nina Satie
+ - [Blood We Cannot Wash Away](http://strangehorizons.com/fiction/blood-we-cannot-wash-away/) by Karina Ko
+ - [Campfire Stories](http://strangehorizons.com/fiction/campfire-stories/) by Rachael Cupp
+ - [Cocoon](http://strangehorizons.com/fiction/cocoon/) by H. PueyoArt by: Gianne Encarnacion
+ - [Coiffeur Seven](http://strangehorizons.com/fiction/coiffeur-seven/) by Kiran Kaur Saini
+ - [Data Migration](http://strangehorizons.com/fiction/data-migration/) by Melanie Harding-Shaw
+ - [Dragons](http://strangehorizons.com/fiction/dragons/) by Teresa Milbrodt
+ - [First Times](http://strangehorizons.com/fiction/first-times/) by Nibedita Sen
+ - [Haja Hoje](http://strangehorizons.com/fiction/haja-hoje/) by Anna MartinoArt by: Palloma Barreto
+ - [Harun](http://strangehorizons.com/fiction/harun/) by Ryah Aqel
+ - [Heat From Fire](http://strangehorizons.com/fiction/heat-from-fire/) by Anna Anthropy
+ - [Intimacies](http://strangehorizons.com/fiction/intimacies/) by Filip Hajdar Drnovšek ZorkoArt by: Dominique Ramsey
+ - [Introduction: Strange Lusts](http://strangehorizons.com/fiction/introduction-strange-lusts/) by Sharang Biswas Yeonsoo Julian Kim
+ - [Little Lila](http://strangehorizons.com/fiction/little-lila/) by Susannah Rand
+ - [Motivation Augmentation](http://strangehorizons.com/fiction/motivation-augmentation/) by Clara Ward
+ - [Mouth](http://strangehorizons.com/fiction/mouth/) by Sasha LaPointe
+ - [Native Country](http://strangehorizons.com/fiction/native-country/) by Karim KattanArt by: Aya Ghanameh
+ - [Night Shift](http://strangehorizons.com/fiction/night-shift/) by Max Franciscovich
+ - [Ootheca](http://strangehorizons.com/fiction/ootheca/) by Mário de Seabra Coelho
+ - [Pockets](http://strangehorizons.com/fiction/pockets/) by Strange Horizons
+ - [Sandrine](http://strangehorizons.com/fiction/sandrine/) by Alexandra Munck
+ - [Scoria](http://strangehorizons.com/fiction/scoria/) by Liza Wemakor
+ - [Secrets of the Kath](http://strangehorizons.com/fiction/secrets-of-the-kath/) by Fatima TaqviArt by: Juliana Pinho
+ - [Si Shou](http://strangehorizons.com/fiction/si-shou/) by E. A. Xiong
+ - [Surat Dari Hantu](http://strangehorizons.com/fiction/surat-dari-hantu/) by Lisabelle Tay
+ - [Temporal Slider](http://strangehorizons.com/fiction/temporal-slider/) by Blaze Forbes
+ - [The Cataloguer of Deceit](http://strangehorizons.com/fiction/the-cataloguer-of-deceit/) by Ian Rosales Casocot
+ - [The Center of the Universe](http://strangehorizons.com/fiction/the-center-of-the-universe/) by Nadia Shammas
+ - [The Chicken House](http://strangehorizons.com/fiction/the-chicken-house/) by Jenny FriedArt by: Sunmi
+ - [The Constellations Are Unrecognizable Here](http://strangehorizons.com/fiction/the-constellations-are-unrecognizable-here/) by Andrew Joseph White
+ - [The Demon Sage's Daughter](http://strangehorizons.com/fiction/the-demon-sages-daughter/) by Varsha DineshArt by: Emma Weakley
+ - [The Giant with No Heart in Her Body](http://strangehorizons.com/fiction/the-giant-with-no-heart-in-her-body/) by Nike SulwayArt by: Elaine Ho
+ - [The Golden Carrot](http://strangehorizons.com/fiction/the-golden-carrot/) by K. S. Shere
+ - [The Loneliness of Former Constellations](http://strangehorizons.com/fiction/the-loneliness-of-former-constellations/) by P. H. Low
+ - [The Thirteenth Knot](http://strangehorizons.com/fiction/the-thirteenth-knot/) by Yeonsoo Julian Kim
+ - [The karyōbinga sings to Jiro](http://strangehorizons.com/fiction/the-karyobinga-sings-to-jiro/) by Ryu Ando
+ - [Thread Count](http://strangehorizons.com/fiction/thread-count/) by Cynthia Gómez
+ - [Tower of Ivory, Tower of Horn](http://strangehorizons.com/fiction/tower-of-ivory-tower-of-horn/) by Reno EvangelistaArt by: Grace Fong
+ - [We Broke Nairobi](http://strangehorizons.com/fiction/we-broke-nairobi/) by Noel Cheruto
+ - [What Floats in a Flotsam River](http://strangehorizons.com/fiction/what-floats-in-a-flotsam-river/) by Osahon Ize-Iyamu
+ - [Wills](http://strangehorizons.com/fiction/wills/) by Wadih Haddad | وديع الحداد
+ - [Women Want Me, Fish Fear Me](http://strangehorizons.com/fiction/women-want-me-fish-fear-me/) by Paris Green
+ - [Yearning](http://strangehorizons.com/fiction/yearning/) by Maya Beck
+ - [ارادات](http://strangehorizons.com/fiction/%d8%a7%d8%b1%d8%a7%d8%af%d8%a7%d8%aa/) by Wadih Haddad | وديع الحداد

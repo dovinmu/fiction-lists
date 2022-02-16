@@ -1,40 +1,20 @@
-A new partner by Timothy Mudie: https://nature.com/articles/d41586-021-03742-6
-
-A thousand words, unspoken by Wendy Nikel: https://nature.com/articles/d41586-021-02767-1
-
-Beware of rainbows by S. R. Algernon: https://nature.com/articles/d41586-021-02961-1
-
-Bringing back the stars by Redfern Jon Barrett: https://nature.com/articles/d41586-021-03727-5
-
-Byzantium by Robert Dawson: https://nature.com/articles/d41586-021-02769-z
-
-Eight reasons you are alone by Benjamin C. Kinney: https://nature.com/articles/d41586-021-02963-z
-
-EverLife by Michael García Juelle: https://nature.com/articles/d41586-021-03556-6
-
-Goldbergian physics by Matt Tighe: https://nature.com/articles/d41586-021-02967-9
-
-Mnemovirus by Alexander B. Joy: https://nature.com/articles/d41586-021-03577-1
-
-My first pet by Robert Blasiak: https://nature.com/articles/d41586-021-02965-x
-
-Oceans like neurons by Jeremy Szal: https://nature.com/articles/d41586-021-02888-7
-
-Path correction by Sylvia Wenmackers: https://nature.com/articles/d41586-021-02765-3
-
-Spider of the cross by Deborah Walker: https://nature.com/articles/d41586-021-03394-6
-
-Star Corps Crew Manual Section 15-A37: On Mental Dislocation by Marissa Lingen: https://nature.com/articles/d41586-021-03398-2
-
-The Christmas Tree Barn by Mary E. Lowd: https://nature.com/articles/d41586-021-03743-5
-
-The audit by Matt Thompson: https://nature.com/articles/d41586-021-02928-2
-
-The last library by Brian Trent: https://nature.com/articles/d41586-021-03637-6
-
-The wasted chewing gum bacteriome: an oral history by Lavie Tidhar: https://nature.com/articles/d41586-021-03660-7
-
-Venetian blinds by Gretchen Tessmer: https://nature.com/articles/d41586-021-03525-z
-
-Welcome home by Beth Cato: https://nature.com/articles/d41586-021-03396-4
-
+ - [A new partner](https://nature.com/articles/d41586-021-03742-6) by Timothy Mudie
+ - [A thousand words, unspoken](https://nature.com/articles/d41586-021-02767-1) by Wendy Nikel
+ - [Beware of rainbows](https://nature.com/articles/d41586-021-02961-1) by S. R. Algernon
+ - [Bringing back the stars](https://nature.com/articles/d41586-021-03727-5) by Redfern Jon Barrett
+ - [Byzantium](https://nature.com/articles/d41586-021-02769-z) by Robert Dawson
+ - [Eight reasons you are alone](https://nature.com/articles/d41586-021-02963-z) by Benjamin C. Kinney
+ - [EverLife](https://nature.com/articles/d41586-021-03556-6) by Michael García Juelle
+ - [Goldbergian physics](https://nature.com/articles/d41586-021-02967-9) by Matt Tighe
+ - [Mnemovirus](https://nature.com/articles/d41586-021-03577-1) by Alexander B. Joy
+ - [My first pet](https://nature.com/articles/d41586-021-02965-x) by Robert Blasiak
+ - [Oceans like neurons](https://nature.com/articles/d41586-021-02888-7) by Jeremy Szal
+ - [Path correction](https://nature.com/articles/d41586-021-02765-3) by Sylvia Wenmackers
+ - [Spider of the cross](https://nature.com/articles/d41586-021-03394-6) by Deborah Walker
+ - [Star Corps Crew Manual Section 15-A37: On Mental Dislocation](https://nature.com/articles/d41586-021-03398-2) by Marissa Lingen
+ - [The Christmas Tree Barn](https://nature.com/articles/d41586-021-03743-5) by Mary E. Lowd
+ - [The audit](https://nature.com/articles/d41586-021-02928-2) by Matt Thompson
+ - [The last library](https://nature.com/articles/d41586-021-03637-6) by Brian Trent
+ - [The wasted chewing gum bacteriome: an oral history](https://nature.com/articles/d41586-021-03660-7) by Lavie Tidhar
+ - [Venetian blinds](https://nature.com/articles/d41586-021-03525-z) by Gretchen Tessmer
+ - [Welcome home](https://nature.com/articles/d41586-021-03396-4) by Beth Cato

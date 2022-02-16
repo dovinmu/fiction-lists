@@ -1,58 +1,29 @@
-#Selfcare by Annalee Newitz: https://www.tor.com/2021/01/19/selfcare-annalee-newitz/
-
-#Spring Love, #Pichal Pairi by Usman T. Malik: https://www.tor.com/2021/03/03/spring-love-pichal-pairi-usman-t-malik/
-
-A Better Way of Saying by Sarah Pinsker: https://www.tor.com/2021/11/10/a-better-way-of-saying/
-
-Across the Dark Water by Richard Kadrey: https://www.tor.com/2021/02/03/across-the-dark-water-richard-kadrey/
-
-An Easy Job by Carrie Vaughn: https://www.tor.com/2021/06/09/an-easy-job-carrie-vaughn/
-
-Annie Without Crow by Michael Swanwick: https://www.tor.com/2021/04/07/annie-without-crow-michael-swanwick/
-
-Baby Teeth by Daniel Polansky: https://www.tor.com/2021/10/27/baby-teeth-daniel-polansky/
-
-Black Leg by Glen Hirshberg: https://www.tor.com/2021/07/14/black-leg-glen-hirshberg/
-
-Blood in the Thread by Cheri Kamei: https://www.tor.com/2021/05/12/blood-in-the-thread-cheri-kamei/
-
-Judge Dee and the Poisoner of Montmartre by Lavie Tidhar: https://www.tor.com/2021/09/15/judge-dee-and-the-poisoner-of-montmartre-lavie-tidhar/
-
-Judge Dee and the Three Deaths of Count Werdenfels by Lavie Tidhar: https://www.tor.com/2021/02/10/judge-dee-and-the-three-deaths-of-count-werdenfels-lavie-tidhar/
-
-Let All the Children Boogie by Sam J. Miller: https://www.tor.com/2021/01/06/let-all-the-children-boogie-sam-j-miller/
-
-L’Esprit de L’Escalier by Catherynne M. Valente: https://www.tor.com/2021/08/25/lesprit-de-lescalier-catherynne-m-valente/
-
-Masquerade Season by 'Pemi Aguda: https://www.tor.com/2021/03/24/masquerade-season-pemi-aguda/
-
-Now We Paint Worlds by Matthew Kressel: https://www.tor.com/2021/07/07/now-we-paint-worlds-matthew-kressel/
-
-Questions Asked in the Belly of the World by A. T. Greenblatt: https://www.tor.com/2021/09/29/questions-asked-in-the-belly-of-the-world-a-t-greenblatt/
-
-Ripple Effects by Laura J. Mixon: https://www.tor.com/2021/05/19/ripple-effects-laura-j-mixon/
-
-Sand by Jasmin Kirkbride: https://www.tor.com/2021/10/13/sand-jasmin-kirkbride/
-
-Shards by Ian Rogers: https://www.tor.com/2021/01/27/shards-ian-rogers/
-
-Skin Deep by Alan Brennert: https://www.tor.com/2021/07/21/skin-deep-alan-brennert/
-
-Small Monsters by E. Lily Yu: https://www.tor.com/2021/10/20/small-monsters-e-lily-yu/
-
-The Far Side of the Universe by noc: https://www.tor.com/2021/06/16/the-far-side-of-the-universe-noc/
-
-The Future Library by Peng Shepherd: https://www.tor.com/2021/08/18/the-future-library-peng-shepherd/
-
-The Lay of Lilyfinger by G. V. Anderson: https://www.tor.com/2021/05/05/the-lay-of-lilyfinger-g-v-anderson/
-
-The Red Mother by Elizabeth Bear: https://www.tor.com/2021/06/23/the-red-mother-elizabeth-bear/
-
-The Station of the Twelfth by Chaz Brenchley: https://www.tor.com/2021/09/08/the-station-of-the-twelfth-chaz-brenchley/
-
-The Tinder Box by Kate Elliott: https://www.tor.com/2021/12/01/the-tinder-box-kate-elliott/
-
-The Tyger by Tegan Moore: https://www.tor.com/2021/02/24/the-tyger-tegan-moore/
-
-The Wonderful Stag, or The Courtship of Red Elsie by Kathleen Jennings: https://www.tor.com/2021/09/01/the-wonderful-stag-or-the-courtship-of-red-elsie-kathleen-jennings/
-
+ - [#Selfcare](https://www.tor.com/2021/01/19/selfcare-annalee-newitz/) by Annalee Newitz
+ - [#Spring Love, #Pichal Pairi](https://www.tor.com/2021/03/03/spring-love-pichal-pairi-usman-t-malik/) by Usman T. Malik
+ - [A Better Way of Saying](https://www.tor.com/2021/11/10/a-better-way-of-saying/) by Sarah Pinsker
+ - [Across the Dark Water](https://www.tor.com/2021/02/03/across-the-dark-water-richard-kadrey/) by Richard Kadrey
+ - [An Easy Job](https://www.tor.com/2021/06/09/an-easy-job-carrie-vaughn/) by Carrie Vaughn
+ - [Annie Without Crow](https://www.tor.com/2021/04/07/annie-without-crow-michael-swanwick/) by Michael Swanwick
+ - [Baby Teeth](https://www.tor.com/2021/10/27/baby-teeth-daniel-polansky/) by Daniel Polansky
+ - [Black Leg](https://www.tor.com/2021/07/14/black-leg-glen-hirshberg/) by Glen Hirshberg
+ - [Blood in the Thread](https://www.tor.com/2021/05/12/blood-in-the-thread-cheri-kamei/) by Cheri Kamei
+ - [Judge Dee and the Poisoner of Montmartre](https://www.tor.com/2021/09/15/judge-dee-and-the-poisoner-of-montmartre-lavie-tidhar/) by Lavie Tidhar
+ - [Judge Dee and the Three Deaths of Count Werdenfels](https://www.tor.com/2021/02/10/judge-dee-and-the-three-deaths-of-count-werdenfels-lavie-tidhar/) by Lavie Tidhar
+ - [Let All the Children Boogie](https://www.tor.com/2021/01/06/let-all-the-children-boogie-sam-j-miller/) by Sam J. Miller
+ - [L’Esprit de L’Escalier](https://www.tor.com/2021/08/25/lesprit-de-lescalier-catherynne-m-valente/) by Catherynne M. Valente
+ - [Masquerade Season](https://www.tor.com/2021/03/24/masquerade-season-pemi-aguda/) by 'Pemi Aguda
+ - [Now We Paint Worlds](https://www.tor.com/2021/07/07/now-we-paint-worlds-matthew-kressel/) by Matthew Kressel
+ - [Questions Asked in the Belly of the World](https://www.tor.com/2021/09/29/questions-asked-in-the-belly-of-the-world-a-t-greenblatt/) by A. T. Greenblatt
+ - [Ripple Effects](https://www.tor.com/2021/05/19/ripple-effects-laura-j-mixon/) by Laura J. Mixon
+ - [Sand](https://www.tor.com/2021/10/13/sand-jasmin-kirkbride/) by Jasmin Kirkbride
+ - [Shards](https://www.tor.com/2021/01/27/shards-ian-rogers/) by Ian Rogers
+ - [Skin Deep](https://www.tor.com/2021/07/21/skin-deep-alan-brennert/) by Alan Brennert
+ - [Small Monsters](https://www.tor.com/2021/10/20/small-monsters-e-lily-yu/) by E. Lily Yu
+ - [The Far Side of the Universe](https://www.tor.com/2021/06/16/the-far-side-of-the-universe-noc/) by noc
+ - [The Future Library](https://www.tor.com/2021/08/18/the-future-library-peng-shepherd/) by Peng Shepherd
+ - [The Lay of Lilyfinger](https://www.tor.com/2021/05/05/the-lay-of-lilyfinger-g-v-anderson/) by G. V. Anderson
+ - [The Red Mother](https://www.tor.com/2021/06/23/the-red-mother-elizabeth-bear/) by Elizabeth Bear
+ - [The Station of the Twelfth](https://www.tor.com/2021/09/08/the-station-of-the-twelfth-chaz-brenchley/) by Chaz Brenchley
+ - [The Tinder Box](https://www.tor.com/2021/12/01/the-tinder-box-kate-elliott/) by Kate Elliott
+ - [The Tyger](https://www.tor.com/2021/02/24/the-tyger-tegan-moore/) by Tegan Moore
+ - [The Wonderful Stag, or The Courtship of Red Elsie](https://www.tor.com/2021/09/01/the-wonderful-stag-or-the-courtship-of-red-elsie-kathleen-jennings/) by Kathleen Jennings

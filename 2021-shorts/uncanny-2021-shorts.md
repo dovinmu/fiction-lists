@@ -1,84 +1,42 @@
-A House Full of Voices Is Never Empty by Miyuki Jane Pinckard: https://uncannymagazine.com/article/a-house-full-of-voices-is-never-empty/
-
-Beyond the Doll Forest by Marissa Lingen: https://uncannymagazine.com/article/beyond-the-doll-forest/
-
-Colors of the Immortal Palette by Caroline M. Yoachim: https://uncannymagazine.com/article/colors-of-the-immortal-palette/
-
-Diamond Cuts by Shaoni C. White: https://uncannymagazine.com/article/diamond-cuts/
-
-Distribution by Paul Cornell: https://uncannymagazine.com/article/distribution/
-
-Down in the Aspen Hollow by Kristiana Willsey: https://uncannymagazine.com/article/down-in-the-aspen-hollow/
-
-Eighteen Days of Barbareek by Rati Mehrotra: https://uncannymagazine.com/article/eighteen-days-of-barbareek/
-
-Femme and Sundance by Christopher Caldwell: https://uncannymagazine.com/article/femme-and-sundance/
-
-For All Those Who Sheltered Here by Del Sandeen: https://uncannymagazine.com/article/for-all-those-who-sheltered-here/
-
-For Want of Milk by Grace P. Fong: https://uncannymagazine.com/article/for-want-of-milk/
-
-From the Archives of the Museum of Eerie Skins: An Account by C. S. E. Cooney: https://uncannymagazine.com/article/from-the-archives-of-the-museum-of-eerie-skins-an-account/
-
-Heart Shine by Shveta Thakrar: https://uncannymagazine.com/article/heart-shine/
-
-How the Girls Came Home by Eugenia Triantafyllou: https://uncannymagazine.com/article/how-the-girls-came-home/
-
-If the Martians Have Magic by P. Djèlí Clark: https://uncannymagazine.com/article/if-the-martians-have-magic/
-
-Immortal Coil by Ellen Kushner: https://uncannymagazine.com/article/immortal-coil/
-
-In That Place She Grows a Garden by Del Sandeen: https://uncannymagazine.com/article/in-that-place-she-grows-a-garden/
-
-Ina’s Spark by Mary Robinette Kowal: https://uncannymagazine.com/article/inas-spark/
-
-Mulberry and Owl by Aliette de Bodard: https://uncannymagazine.com/article/mulberry-and-owl/
-
-On a Branch Floating Down the River, a Wren Is Singing by Betsy Aoki: https://uncannymagazine.com/article/on-a-branch-floating-down-the-river-a-wren-is-singing/
-
-Onward by Bonnie Jo Stufflebeam: https://uncannymagazine.com/article/onward/
-
-Pathfinding! by Nicole Kornher-Stace: https://uncannymagazine.com/article/pathfinding/
-
-Presque vue by Tochi Onyebuchi: https://uncannymagazine.com/article/presque-vue/
-
-Proof by Induction by José Pablo Iriarte: https://uncannymagazine.com/article/proof-by-induction/
-
-River, Clap Your Hands by Sheree Renée Thomas: https://uncannymagazine.com/article/river-clap-your-hands/
-
-Six Fictions About Unicorns by Rachael K. Jones: https://uncannymagazine.com/article/six-fictions-about-unicorns/
-
-That Story Isn’t the Story by John Wiswell: https://uncannymagazine.com/article/that-story-isnt-the-story/
-
-The Book of the Kraken by Carrie Vaughn: https://uncannymagazine.com/article/the-book-of-the-kraken/
-
-The Chameleon’s Gloves by Yoon Ha Lee: https://uncannymagazine.com/article/the-chameleons-gloves/
-
-The Giants of the Violet Sea by Eugenia Triantafyllou: https://uncannymagazine.com/article/the-giants-of-the-violet-sea/
-
-The Graveyard by Eleanor Arnason: https://uncannymagazine.com/article/the-graveyard/
-
-The Hungry Ones by Emma Törzs: https://uncannymagazine.com/article/the-hungry-ones/
-
-The North Pole Workshops by Mari Ness: https://uncannymagazine.com/article/the-north-pole-workshops/
-
-The Perils of a Hologram Heart by Dominica Phetteplace: https://uncannymagazine.com/article/the-perils-of-a-hologram-heart/
-
-The Sin of America by Catherynne M. Valente: https://uncannymagazine.com/article/the-sin-of-america/
-
-The Stop After the Last Station by A. T. Greenblatt: https://uncannymagazine.com/article/the-stop-after-the-last-station/
-
-The Wishing Pool by Tananarive Due: https://uncannymagazine.com/article/the-wishing-pool/
-
-They Shall Salt the Earth with Seeds of Glass by Alaya Dawn Johnson: https://uncannymagazine.com/article/they-shall-salt-the-earth-with-seeds-of-glass/
-
-Thirteen of the Secrets in My Purse by Rachel Swirsky: https://uncannymagazine.com/article/thirteen-of-the-secrets-in-my-purse/
-
-Tyrannosaurus Hex by Sam J. Miller: https://uncannymagazine.com/article/tyrannosaurus-hex/
-
-Unseelie Brothers, Ltd. by Fran Wilde: https://uncannymagazine.com/article/unseelie-brothers-ltd/
-
-Where Oaken Hearts Do Gather by Sarah Pinsker: https://uncannymagazine.com/article/where-oaken-hearts-do-gather/
-
-White Rose, Red Rose by Rachel Swirsky: https://uncannymagazine.com/article/white-rose-red-rose/
-
+ - [A House Full of Voices Is Never Empty](https://uncannymagazine.com/article/a-house-full-of-voices-is-never-empty/) by Miyuki Jane Pinckard
+ - [Beyond the Doll Forest](https://uncannymagazine.com/article/beyond-the-doll-forest/) by Marissa Lingen
+ - [Colors of the Immortal Palette](https://uncannymagazine.com/article/colors-of-the-immortal-palette/) by Caroline M. Yoachim
+ - [Diamond Cuts](https://uncannymagazine.com/article/diamond-cuts/) by Shaoni C. White
+ - [Distribution](https://uncannymagazine.com/article/distribution/) by Paul Cornell
+ - [Down in the Aspen Hollow](https://uncannymagazine.com/article/down-in-the-aspen-hollow/) by Kristiana Willsey
+ - [Eighteen Days of Barbareek](https://uncannymagazine.com/article/eighteen-days-of-barbareek/) by Rati Mehrotra
+ - [Femme and Sundance](https://uncannymagazine.com/article/femme-and-sundance/) by Christopher Caldwell
+ - [For All Those Who Sheltered Here](https://uncannymagazine.com/article/for-all-those-who-sheltered-here/) by Del Sandeen
+ - [For Want of Milk](https://uncannymagazine.com/article/for-want-of-milk/) by Grace P. Fong
+ - [From the Archives of the Museum of Eerie Skins: An Account](https://uncannymagazine.com/article/from-the-archives-of-the-museum-of-eerie-skins-an-account/) by C. S. E. Cooney
+ - [Heart Shine](https://uncannymagazine.com/article/heart-shine/) by Shveta Thakrar
+ - [How the Girls Came Home](https://uncannymagazine.com/article/how-the-girls-came-home/) by Eugenia Triantafyllou
+ - [If the Martians Have Magic](https://uncannymagazine.com/article/if-the-martians-have-magic/) by P. Djèlí Clark
+ - [Immortal Coil](https://uncannymagazine.com/article/immortal-coil/) by Ellen Kushner
+ - [In That Place She Grows a Garden](https://uncannymagazine.com/article/in-that-place-she-grows-a-garden/) by Del Sandeen
+ - [Ina’s Spark](https://uncannymagazine.com/article/inas-spark/) by Mary Robinette Kowal
+ - [Mulberry and Owl](https://uncannymagazine.com/article/mulberry-and-owl/) by Aliette de Bodard
+ - [On a Branch Floating Down the River, a Wren Is Singing](https://uncannymagazine.com/article/on-a-branch-floating-down-the-river-a-wren-is-singing/) by Betsy Aoki
+ - [Onward](https://uncannymagazine.com/article/onward/) by Bonnie Jo Stufflebeam
+ - [Pathfinding!](https://uncannymagazine.com/article/pathfinding/) by Nicole Kornher-Stace
+ - [Presque vue](https://uncannymagazine.com/article/presque-vue/) by Tochi Onyebuchi
+ - [Proof by Induction](https://uncannymagazine.com/article/proof-by-induction/) by José Pablo Iriarte
+ - [River, Clap Your Hands](https://uncannymagazine.com/article/river-clap-your-hands/) by Sheree Renée Thomas
+ - [Six Fictions About Unicorns](https://uncannymagazine.com/article/six-fictions-about-unicorns/) by Rachael K. Jones
+ - [That Story Isn’t the Story](https://uncannymagazine.com/article/that-story-isnt-the-story/) by John Wiswell
+ - [The Book of the Kraken](https://uncannymagazine.com/article/the-book-of-the-kraken/) by Carrie Vaughn
+ - [The Chameleon’s Gloves](https://uncannymagazine.com/article/the-chameleons-gloves/) by Yoon Ha Lee
+ - [The Giants of the Violet Sea](https://uncannymagazine.com/article/the-giants-of-the-violet-sea/) by Eugenia Triantafyllou
+ - [The Graveyard](https://uncannymagazine.com/article/the-graveyard/) by Eleanor Arnason
+ - [The Hungry Ones](https://uncannymagazine.com/article/the-hungry-ones/) by Emma Törzs
+ - [The North Pole Workshops](https://uncannymagazine.com/article/the-north-pole-workshops/) by Mari Ness
+ - [The Perils of a Hologram Heart](https://uncannymagazine.com/article/the-perils-of-a-hologram-heart/) by Dominica Phetteplace
+ - [The Sin of America](https://uncannymagazine.com/article/the-sin-of-america/) by Catherynne M. Valente
+ - [The Stop After the Last Station](https://uncannymagazine.com/article/the-stop-after-the-last-station/) by A. T. Greenblatt
+ - [The Wishing Pool](https://uncannymagazine.com/article/the-wishing-pool/) by Tananarive Due
+ - [They Shall Salt the Earth with Seeds of Glass](https://uncannymagazine.com/article/they-shall-salt-the-earth-with-seeds-of-glass/) by Alaya Dawn Johnson
+ - [Thirteen of the Secrets in My Purse](https://uncannymagazine.com/article/thirteen-of-the-secrets-in-my-purse/) by Rachel Swirsky
+ - [Tyrannosaurus Hex](https://uncannymagazine.com/article/tyrannosaurus-hex/) by Sam J. Miller
+ - [Unseelie Brothers, Ltd.](https://uncannymagazine.com/article/unseelie-brothers-ltd/) by Fran Wilde
+ - [Where Oaken Hearts Do Gather](https://uncannymagazine.com/article/where-oaken-hearts-do-gather/) by Sarah Pinsker
+ - [White Rose, Red Rose](https://uncannymagazine.com/article/white-rose-red-rose/) by Rachel Swirsky
