@@ -2,49 +2,49 @@
  - [A Serpent For Each Year](http://strangehorizons.com/fiction/a-serpent-for-each-year/) by Tamara Jerée
  - [A Welling Up](http://strangehorizons.com/fiction/a-welling-up/) by Natalia Theodoridou
  - [According to Leibniz (maybe this isn’t what he meant); or, Rasharelle Little: Goddess of Postal Worker NBs](http://strangehorizons.com/fiction/according-to-leibniz-maybe-this-isnt-what-he-meant-or-rasharelle-little-goddess-of-postal-worker-nbs/) by Isana Skeete
- - [All Us Ghosts](http://strangehorizons.com/fiction/all-us-ghosts/) by B. PladekArt by: Johnny Anger
- - [An Array of Worlds as a Rose Unfurling in Time](http://strangehorizons.com/fiction/an-array-of-worlds-as-a-rose-unfurling-in-time/) by Shreya Ila AnasuyaArt by: Jenny Eickbush
+ - [All Us Ghosts](http://strangehorizons.com/fiction/all-us-ghosts/) by B. Pladek
+ - [An Array of Worlds as a Rose Unfurling in Time](http://strangehorizons.com/fiction/an-array-of-worlds-as-a-rose-unfurling-in-time/) by Shreya Ila Anasuya
  - [An Exploration of Nichole Otieno’s Early Filmography (1232-1246)](http://strangehorizons.com/fiction/an-exploration-of-nichole-otienos-early-filmography-1232-1246/) by Kola Heyward-Rotimi
  - [Balfour in the Desert](http://strangehorizons.com/fiction/balfour-in-the-desert/) by Fargo Tbakhi
  - [Bathymetry](http://strangehorizons.com/fiction/bathymetry/) by Lorraine Wilson
- - [Bespoke Nightmares](http://strangehorizons.com/fiction/bespoke-nightmares/) by Carolina ValentineArt by: Nina Satie
+ - [Bespoke Nightmares](http://strangehorizons.com/fiction/bespoke-nightmares/) by Carolina Valentine
  - [Blood We Cannot Wash Away](http://strangehorizons.com/fiction/blood-we-cannot-wash-away/) by Karina Ko
  - [Campfire Stories](http://strangehorizons.com/fiction/campfire-stories/) by Rachael Cupp
- - [Cocoon](http://strangehorizons.com/fiction/cocoon/) by H. PueyoArt by: Gianne Encarnacion
+ - [Cocoon](http://strangehorizons.com/fiction/cocoon/) by H. Pueyo
  - [Coiffeur Seven](http://strangehorizons.com/fiction/coiffeur-seven/) by Kiran Kaur Saini
  - [Data Migration](http://strangehorizons.com/fiction/data-migration/) by Melanie Harding-Shaw
  - [Dragons](http://strangehorizons.com/fiction/dragons/) by Teresa Milbrodt
  - [First Times](http://strangehorizons.com/fiction/first-times/) by Nibedita Sen
- - [Haja Hoje](http://strangehorizons.com/fiction/haja-hoje/) by Anna MartinoArt by: Palloma Barreto
+ - [Haja Hoje](http://strangehorizons.com/fiction/haja-hoje/) by Anna Martino
  - [Harun](http://strangehorizons.com/fiction/harun/) by Ryah Aqel
  - [Heat From Fire](http://strangehorizons.com/fiction/heat-from-fire/) by Anna Anthropy
- - [Intimacies](http://strangehorizons.com/fiction/intimacies/) by Filip Hajdar Drnovšek ZorkoArt by: Dominique Ramsey
+ - [Intimacies](http://strangehorizons.com/fiction/intimacies/) by Filip Hajdar Drnovšek Zorko
  - [Introduction: Strange Lusts](http://strangehorizons.com/fiction/introduction-strange-lusts/) by Sharang Biswas Yeonsoo Julian Kim
  - [Little Lila](http://strangehorizons.com/fiction/little-lila/) by Susannah Rand
  - [Motivation Augmentation](http://strangehorizons.com/fiction/motivation-augmentation/) by Clara Ward
  - [Mouth](http://strangehorizons.com/fiction/mouth/) by Sasha LaPointe
- - [Native Country](http://strangehorizons.com/fiction/native-country/) by Karim KattanArt by: Aya Ghanameh
+ - [Native Country](http://strangehorizons.com/fiction/native-country/) by Karim Kattan
  - [Night Shift](http://strangehorizons.com/fiction/night-shift/) by Max Franciscovich
  - [Ootheca](http://strangehorizons.com/fiction/ootheca/) by Mário de Seabra Coelho
  - [Pockets](http://strangehorizons.com/fiction/pockets/) by Strange Horizons
  - [Sandrine](http://strangehorizons.com/fiction/sandrine/) by Alexandra Munck
  - [Scoria](http://strangehorizons.com/fiction/scoria/) by Liza Wemakor
- - [Secrets of the Kath](http://strangehorizons.com/fiction/secrets-of-the-kath/) by Fatima TaqviArt by: Juliana Pinho
+ - [Secrets of the Kath](http://strangehorizons.com/fiction/secrets-of-the-kath/) by Fatima Taqvi
  - [Si Shou](http://strangehorizons.com/fiction/si-shou/) by E. A. Xiong
  - [Surat Dari Hantu](http://strangehorizons.com/fiction/surat-dari-hantu/) by Lisabelle Tay
  - [Temporal Slider](http://strangehorizons.com/fiction/temporal-slider/) by Blaze Forbes
  - [The Cataloguer of Deceit](http://strangehorizons.com/fiction/the-cataloguer-of-deceit/) by Ian Rosales Casocot
  - [The Center of the Universe](http://strangehorizons.com/fiction/the-center-of-the-universe/) by Nadia Shammas
- - [The Chicken House](http://strangehorizons.com/fiction/the-chicken-house/) by Jenny FriedArt by: Sunmi
+ - [The Chicken House](http://strangehorizons.com/fiction/the-chicken-house/) by Jenny Fried
  - [The Constellations Are Unrecognizable Here](http://strangehorizons.com/fiction/the-constellations-are-unrecognizable-here/) by Andrew Joseph White
- - [The Demon Sage's Daughter](http://strangehorizons.com/fiction/the-demon-sages-daughter/) by Varsha DineshArt by: Emma Weakley
- - [The Giant with No Heart in Her Body](http://strangehorizons.com/fiction/the-giant-with-no-heart-in-her-body/) by Nike SulwayArt by: Elaine Ho
+ - [The Demon Sage's Daughter](http://strangehorizons.com/fiction/the-demon-sages-daughter/) by Varsha Dinesh
+ - [The Giant with No Heart in Her Body](http://strangehorizons.com/fiction/the-giant-with-no-heart-in-her-body/) by Nike Sulway
  - [The Golden Carrot](http://strangehorizons.com/fiction/the-golden-carrot/) by K. S. Shere
  - [The Loneliness of Former Constellations](http://strangehorizons.com/fiction/the-loneliness-of-former-constellations/) by P. H. Low
  - [The Thirteenth Knot](http://strangehorizons.com/fiction/the-thirteenth-knot/) by Yeonsoo Julian Kim
  - [The karyōbinga sings to Jiro](http://strangehorizons.com/fiction/the-karyobinga-sings-to-jiro/) by Ryu Ando
  - [Thread Count](http://strangehorizons.com/fiction/thread-count/) by Cynthia Gómez
- - [Tower of Ivory, Tower of Horn](http://strangehorizons.com/fiction/tower-of-ivory-tower-of-horn/) by Reno EvangelistaArt by: Grace Fong
+ - [Tower of Ivory, Tower of Horn](http://strangehorizons.com/fiction/tower-of-ivory-tower-of-horn/) by Reno Evangelista
  - [We Broke Nairobi](http://strangehorizons.com/fiction/we-broke-nairobi/) by Noel Cheruto
  - [What Floats in a Flotsam River](http://strangehorizons.com/fiction/what-floats-in-a-flotsam-river/) by Osahon Ize-Iyamu
  - [Wills](http://strangehorizons.com/fiction/wills/) by Wadih Haddad | وديع الحداد

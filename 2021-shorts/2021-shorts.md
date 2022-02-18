@@ -58,7 +58,6 @@
 
 
 ## Clarkesworld  
- - [5,000 Words a Day: A Conversation with Cat Rambo](https://clarkesworldmagazine.com/rambo_interview_2021) by Arley Sorg
  - [55 Plaque](https://clarkesworldmagazine.com/lee_03_21) by Isabel Lee
  - [A Brief History of Russian Science Fiction](https://clarkesworldmagazine.com/shvartsman_05_21) by Alex Shvartsman
  - [A Heist in Fifteen Products from the Orion Spur's Longest-Running Catalog](https://clarkesworldmagazine.com/pawley_08_21) by Andrea M. Pawley
@@ -69,24 +68,18 @@
  - [A Thousand Tiny Gods](https://clarkesworldmagazine.com/afifi_08_21) by Nadia Afifi
  - [A Universe of Possibilities: Planets of Red Dwarfs](https://clarkesworldmagazine.com/novakova_12_21) by Julie Nováková
  - [A Well-Worn Path](https://clarkesworldmagazine.com/curtis_10_21) by AnaMaria Curtis
- - [A Whole New Realm: A Conversation with Diana M. Pho](https://clarkesworldmagazine.com/pho_interview) by Arley Sorg
- - [A Wider Range of Freedom: A Conversation with Alyssa Winans](https://clarkesworldmagazine.com/winans_interview) by Arley Sorg
  - [An Instance](https://clarkesworldmagazine.com/mlok5_08_21) by Mlok 5, translated  Julie Nováková
  - [Aster's Partialities: Vitri's Best Store for Sundry Antiques](https://clarkesworldmagazine.com/strong_01_21) by Tovah Strong
  - [Beneath the Earth Where the Nymphs Sleep](https://clarkesworldmagazine.com/feldman_12_21) by Meghan Feldman
  - [Best-Laid Plans](https://clarkesworldmagazine.com/levine_05_21) by David D. Levine
  - [Between Zero and One There is Infinity](https://clarkesworldmagazine.com/paul_11_21) by Shari Paul
  - [Bots of the Lost Ark](https://clarkesworldmagazine.com/palmer_06_21) by Suzanne Palmer
- - [Breaking Out of the Box: A Conversation with Cadwell Turnbull](https://clarkesworldmagazine.com/turnbull_interview) by Arley Sorg
  - [Candide; Life-](https://clarkesworldmagazine.com/goder_08_21) by Beth Goder
  - [Catching the K Beast](https://clarkesworldmagazine.com/chen_04_21) by Chen Qian, translated  Carmen Yiling Yan
- - [Celebrating the Diversity of Chinese Culture: A Conversation with Xueting Christine Ni](https://clarkesworldmagazine.com/ni_interview) by Arley Sorg
  - [City of Eternity](https://clarkesworldmagazine.com/pan_11_21) by Pan Haitian, translated  Carmen Yiling Yan
  - [Comments on Your Provisional Patent Application for an Eternal Spirit Core](https://clarkesworldmagazine.com/talabi_03_21) by Wole Talabi
  - [Communist Computer Rap God](https://clarkesworldmagazine.com/kriz_04_21) by Andrea Kriz
  - [Companion](https://clarkesworldmagazine.com/artbio_177) by Derek Stenning
- - [Connected to Culture: A Conversation with Sheree Renée Thomas](https://clarkesworldmagazine.com/thomas_interview) by Arley Sorg
- - [Culture Beyond Flair: A Conversation with S. Qiouyi Lu](https://clarkesworldmagazine.com/lu_interview) by Arley Sorg
  - [Dancing With Ereshkigal](https://clarkesworldmagazine.com/siddiqui_05_21) by Sameem Siddiqui
  - [Dark Waters Still Flow](https://clarkesworldmagazine.com/towey_11_21) by Alice Towey
  - [Deep Music](https://clarkesworldmagazine.com/bangs_01_21) by Elly Bangs
@@ -94,11 +87,8 @@
  - [Dog and Pony Show](https://clarkesworldmagazine.com/jeschonek_09_21) by Robert Jeschonek
  - [Embracing the Movement](https://clarkesworldmagazine.com/jurado_06_21) by Cristina Jurado
  - [Excerpts from the Text of an Explanatory Stele Erected for Our Edification by the Scholars of the Outer Orion Tendril](https://clarkesworldmagazine.com/esaias_09_21) by Timons Esaias
- - [Explicit Queerness: A Conversation with Charlie Jane Anders](https://clarkesworldmagazine.com/anders_interview_2021) by Arley Sorg
  - [Face Changing](https://clarkesworldmagazine.com/jiang_06_21) by Jiang Bo, translated  Andy Dudak
- - [Falling in Love and the Collective Consciousness: An Interview with Elly Bangs](https://clarkesworldmagazine.com/bangs_interview) by Arley Sorg
  - [Forward](https://clarkesworldmagazine.com/artbio_173) by Wenjuinn Png
- - [Freedom Over Tyranny: A Conversation with Harry Turtledove](https://clarkesworldmagazine.com/turtledove_interview) by Arley Sorg
  - [Fungi in Fiction](https://clarkesworldmagazine.com/sessarego_06_21) by Carrie Sessarego
  - [GUYS! Don't Lose Hope](https://clarkesworldmagazine.com/artbio_175) by JC Jongwon Park
  - [Garden](https://clarkesworldmagazine.com/artbio_178) by Alejandro Burdisio
@@ -106,14 +96,11 @@
  - [History in Pieces](https://clarkesworldmagazine.com/goder_02_21) by Beth Goder
  - [Homecoming is Just Another Word for the Sublimation of the Self](https://clarkesworldmagazine.com/kim_03_21) by Isabel J. Kim
  - [I'm Feeling Lucky](https://clarkesworldmagazine.com/kaganov_07_21) by Leonid Kaganov, translated  Alex Shvartsman
- - [Important Strangers: A Conversation with Becky Chambers](https://clarkesworldmagazine.com/chambers_interview) by Arley Sorg
  - [In a Net I Seek to Hold the Wind](https://clarkesworldmagazine.com/feeley_09_21) by Gregory Feeley
- - [In the Absence of Guidelines or Censorship: An Interview with Bo-Young Kim](https://clarkesworldmagazine.com/bo-young_interview) by Gord Sellar and Jihyun Park
  - [Intentionalities](https://clarkesworldmagazine.com/ogden_01_21) by Aimee Ogden
  - [Isolation](https://clarkesworldmagazine.com/artbio_176) by Matt Dixon
  - [It is a Pleasure to Receive You](https://clarkesworldmagazine.com/schutz_09_21) by Ziggy Schutz
  - [Just One Step, and Then the Next](https://clarkesworldmagazine.com/diaz_12_21) by E. N. Díaz
- - [Just Under the Threshold: A Conversation with Adrian Tchaikovsky](https://clarkesworldmagazine.com/tchaikovsky_interview) by Arley Sorg
  - [Last Nice Day](https://clarkesworldmagazine.com/larson_07_21) by Rich Larson
  - [Leaving Room for the Moon](https://clarkesworldmagazine.com/lee_01_21) by P H Lee
  - [Legend of the Giant](https://clarkesworldmagazine.com/fei_10_21) by Fei Dao, translated  Ken Liu
@@ -124,26 +111,21 @@
  - [Mercy and the Mollusc](https://clarkesworldmagazine.com/clark_02_21) by M. L. Clark
  - [Mermay 2021](https://clarkesworldmagazine.com/artbio_181) by Alexander Thümler
  - [Mom Heart](https://clarkesworldmagazine.com/mcintosh_11_21) by Will McIntosh
- - [Navigating the Seas of South Asian Diversity: A Conversation with Tarun K. Saint](https://clarkesworldmagazine.com/saint_interview) by Arley Sorg
  - [Navigating the Storms of the Mind](https://clarkesworldmagazine.com/dluzen_11_21) by Douglas F. Dluzen
  - [Obelisker Adrift in the Desert](https://clarkesworldmagazine.com/meridian_02_21) by K.H. Meridian
  - [Other Stories](https://clarkesworldmagazine.com/wang_12_21) by Wang Yuan, translated  Andy Dudak
  - [Our Fate, Told in Photons](https://clarkesworldmagazine.com/colyard_06_21) by K.W. Colyard
  - [Ouroboros](https://clarkesworldmagazine.com/stephens_04_21) by Dean-Paul Stephens
  - [Paper of Elephants](https://clarkesworldmagazine.com/cooper_10_21) by Brenda Cooper
- - [Perpetual Training: An Interview with Tommy Arnold](https://clarkesworldmagazine.com/arnold_interview) by Arley Sorg
  - [Peter Pan Through the Years](https://clarkesworldmagazine.com/sessarego_02_21) by Carrie Sessarego
  - [Philia, Eros, Storge, Agápe, Pragma](https://clarkesworldmagazine.com/garcia_01_21) by R.S.A. Garcia
  - [Poubelle](https://clarkesworldmagazine.com/reed_06_21) by Robert Reed
  - [Preserved in Amber](https://clarkesworldmagazine.com/murray_07_21) by Samantha Murray
  - [Promises We Made Under A Brick-Dark Sky](https://clarkesworldmagazine.com/osborne_07_21) by Karen Osborne
  - [Rain Falling in the Pines](https://clarkesworldmagazine.com/tidhar_10_21) by Lavie Tidhar
- - [Raising Science Fictional Children: A Conversation with Kelly Robson](https://clarkesworldmagazine.com/robson_interview) by Arley Sorg
  - [Resistance in a Drop of DNA](https://clarkesworldmagazine.com/kriz_08_21) by Andrea Kriz
  - [Retro Heroines: Bella, Buffy, and Katniss](https://clarkesworldmagazine.com/sessarego_08_21) by Carrie Sessarego
  - [Sarcophagus](https://clarkesworldmagazine.com/nayler_04_21) by Ray Nayler
- - [Science Fiction and Schmaltz: A Conversation with Connie Willis](https://clarkesworldmagazine.com/willis_interview) by Arley Sorg
- - [Science, Math, Fiction, and the Oxford Comma: A Conversation with S.B. Divya](https://clarkesworldmagazine.com/divya_interview) by Arley Sorg
  - [Space Cadet](https://clarkesworldmagazine.com/artbio_182) by Pascal Blanché
  - [Spore](https://clarkesworldmagazine.com/tang_05_21) by Tang Fei, translated  Andy Dudak
  - [Submergence](https://clarkesworldmagazine.com/ratnakar_03_21) by Arula Ratnakar
@@ -153,30 +135,24 @@
  - [The Answer Was Snails](https://clarkesworldmagazine.com/balder_10_21) by Bo Balder
  - [The Clock, Having Seen Its Face in the Mirror, Still Knows Not the Hour](https://clarkesworldmagazine.com/stemple_08_21) by Adam Stemple
  - [The Cold Calculations](https://clarkesworldmagazine.com/ogden_12_21) by Aimee Ogden
- - [The Cost of Doing Good: A Conversation with Octavia Cade](https://clarkesworldmagazine.com/cade_interview) by Arley Sorg
  - [The Death Haiku of the Azure Five](https://clarkesworldmagazine.com/chan_11_21) by L Chan
  - [The Failed Dianas](https://clarkesworldmagazine.com/laban_02_21) by Monique Laban
  - [The Falling](https://clarkesworldmagazine.com/melcer_07_21) by M V Melcer
  - [The Field Tiger](https://clarkesworldmagazine.com/richardson_04_21) by Endria Isa Richardson
  - [The Force Exerted on the Mass of a Body](https://clarkesworldmagazine.com/balder_05_21) by Bo Balder
- - [The Freedom of Science Fiction: A Conversation with Tobias S. Buckell](https://clarkesworldmagazine.com/buckell_interview_2021) by Arley Sorg
  - [The Language Birds Speak](https://clarkesworldmagazine.com/campbell_11_21) by Rebecca Campbell
  - [The Last Civilian](https://clarkesworldmagazine.com/sand_01_21) by R. P. Sand
  - [The Mermaid Problem](https://clarkesworldmagazine.com/sessarego_10_21) by Carrie Sessarego
  - [The Orbiting Guan Erye](https://clarkesworldmagazine.com/wang_03_21) by Wang Zhenzhen, translated  Carmen Yiling Yan
- - [The Practice of Writing: A Conversation with Nina Allan](https://clarkesworldmagazine.com/allan_interview) by Arley Sorg
  - [The Serpentine Band](https://clarkesworldmagazine.com/gu_08_21) by Congyun 'Mu Ming' Gu, translated  Tian Huang
  - [The Sheen of Her Carapace](https://clarkesworldmagazine.com/webb_04_21) by Richard Webb
  - [The Shroud for the Mourners](https://clarkesworldmagazine.com/ogawa_06_21) by Yukimi Ogawa
- - [The Ten-Year Journey: A Conversation with E. Lily Yu](https://clarkesworldmagazine.com/yu_interview) by Arley Sorg
  - [The Variable Man](https://clarkesworldmagazine.com/artbio_183) by Douglas P. Lobo
  - [The Winter Garden](https://clarkesworldmagazine.com/wang_09_21) by Regina Kanyu Wang, translated  Emily Jin
  - [This Stitch, This Time](https://clarkesworldmagazine.com/martino_11_21) by Anna Martino
- - [Thrilling to the Harmony: A Conversation with Karen Osborne](https://clarkesworldmagazine.com/osborne_interview) by Arley Sorg
  - [Through](https://clarkesworldmagazine.com/fomley_larson_10_21) by Eric Fomley and Rich Larson
  - [To Study the Old Masters in the Prado at the End of the World](https://clarkesworldmagazine.com/pauling_03_21) by Sarah Pauling
  - [Under Pressure: Life's Last Dance?](https://clarkesworldmagazine.com/novakova_09_21) by Julie Nováková
- - [Undoing Good Women: A Conversation with Cassandra Khaw](https://clarkesworldmagazine.com/khaw_interview) by Arley Sorg
  - [Vanishing Point](https://clarkesworldmagazine.com/redick_05_21) by Robert V.S. Redick
  - [Vegvísir](https://clarkesworldmagazine.com/goodman_12_21) by David Goodman
  - [Vimana](https://clarkesworldmagazine.com/artbio_180) by Daniele Gay
@@ -269,49 +245,49 @@
  - [A Serpent For Each Year](http://strangehorizons.com/fiction/a-serpent-for-each-year/) by Tamara Jerée
  - [A Welling Up](http://strangehorizons.com/fiction/a-welling-up/) by Natalia Theodoridou
  - [According to Leibniz (maybe this isn’t what he meant); or, Rasharelle Little: Goddess of Postal Worker NBs](http://strangehorizons.com/fiction/according-to-leibniz-maybe-this-isnt-what-he-meant-or-rasharelle-little-goddess-of-postal-worker-nbs/) by Isana Skeete
- - [All Us Ghosts](http://strangehorizons.com/fiction/all-us-ghosts/) by B. PladekArt by: Johnny Anger
- - [An Array of Worlds as a Rose Unfurling in Time](http://strangehorizons.com/fiction/an-array-of-worlds-as-a-rose-unfurling-in-time/) by Shreya Ila AnasuyaArt by: Jenny Eickbush
+ - [All Us Ghosts](http://strangehorizons.com/fiction/all-us-ghosts/) by B. Pladek
+ - [An Array of Worlds as a Rose Unfurling in Time](http://strangehorizons.com/fiction/an-array-of-worlds-as-a-rose-unfurling-in-time/) by Shreya Ila Anasuya
  - [An Exploration of Nichole Otieno’s Early Filmography (1232-1246)](http://strangehorizons.com/fiction/an-exploration-of-nichole-otienos-early-filmography-1232-1246/) by Kola Heyward-Rotimi
  - [Balfour in the Desert](http://strangehorizons.com/fiction/balfour-in-the-desert/) by Fargo Tbakhi
  - [Bathymetry](http://strangehorizons.com/fiction/bathymetry/) by Lorraine Wilson
- - [Bespoke Nightmares](http://strangehorizons.com/fiction/bespoke-nightmares/) by Carolina ValentineArt by: Nina Satie
+ - [Bespoke Nightmares](http://strangehorizons.com/fiction/bespoke-nightmares/) by Carolina Valentine
  - [Blood We Cannot Wash Away](http://strangehorizons.com/fiction/blood-we-cannot-wash-away/) by Karina Ko
  - [Campfire Stories](http://strangehorizons.com/fiction/campfire-stories/) by Rachael Cupp
- - [Cocoon](http://strangehorizons.com/fiction/cocoon/) by H. PueyoArt by: Gianne Encarnacion
+ - [Cocoon](http://strangehorizons.com/fiction/cocoon/) by H. Pueyo
  - [Coiffeur Seven](http://strangehorizons.com/fiction/coiffeur-seven/) by Kiran Kaur Saini
  - [Data Migration](http://strangehorizons.com/fiction/data-migration/) by Melanie Harding-Shaw
  - [Dragons](http://strangehorizons.com/fiction/dragons/) by Teresa Milbrodt
  - [First Times](http://strangehorizons.com/fiction/first-times/) by Nibedita Sen
- - [Haja Hoje](http://strangehorizons.com/fiction/haja-hoje/) by Anna MartinoArt by: Palloma Barreto
+ - [Haja Hoje](http://strangehorizons.com/fiction/haja-hoje/) by Anna Martino
  - [Harun](http://strangehorizons.com/fiction/harun/) by Ryah Aqel
  - [Heat From Fire](http://strangehorizons.com/fiction/heat-from-fire/) by Anna Anthropy
- - [Intimacies](http://strangehorizons.com/fiction/intimacies/) by Filip Hajdar Drnovšek ZorkoArt by: Dominique Ramsey
+ - [Intimacies](http://strangehorizons.com/fiction/intimacies/) by Filip Hajdar Drnovšek Zorko
  - [Introduction: Strange Lusts](http://strangehorizons.com/fiction/introduction-strange-lusts/) by Sharang Biswas Yeonsoo Julian Kim
  - [Little Lila](http://strangehorizons.com/fiction/little-lila/) by Susannah Rand
  - [Motivation Augmentation](http://strangehorizons.com/fiction/motivation-augmentation/) by Clara Ward
  - [Mouth](http://strangehorizons.com/fiction/mouth/) by Sasha LaPointe
- - [Native Country](http://strangehorizons.com/fiction/native-country/) by Karim KattanArt by: Aya Ghanameh
+ - [Native Country](http://strangehorizons.com/fiction/native-country/) by Karim Kattan
  - [Night Shift](http://strangehorizons.com/fiction/night-shift/) by Max Franciscovich
  - [Ootheca](http://strangehorizons.com/fiction/ootheca/) by Mário de Seabra Coelho
  - [Pockets](http://strangehorizons.com/fiction/pockets/) by Strange Horizons
  - [Sandrine](http://strangehorizons.com/fiction/sandrine/) by Alexandra Munck
  - [Scoria](http://strangehorizons.com/fiction/scoria/) by Liza Wemakor
- - [Secrets of the Kath](http://strangehorizons.com/fiction/secrets-of-the-kath/) by Fatima TaqviArt by: Juliana Pinho
+ - [Secrets of the Kath](http://strangehorizons.com/fiction/secrets-of-the-kath/) by Fatima Taqvi
  - [Si Shou](http://strangehorizons.com/fiction/si-shou/) by E. A. Xiong
  - [Surat Dari Hantu](http://strangehorizons.com/fiction/surat-dari-hantu/) by Lisabelle Tay
  - [Temporal Slider](http://strangehorizons.com/fiction/temporal-slider/) by Blaze Forbes
  - [The Cataloguer of Deceit](http://strangehorizons.com/fiction/the-cataloguer-of-deceit/) by Ian Rosales Casocot
  - [The Center of the Universe](http://strangehorizons.com/fiction/the-center-of-the-universe/) by Nadia Shammas
- - [The Chicken House](http://strangehorizons.com/fiction/the-chicken-house/) by Jenny FriedArt by: Sunmi
+ - [The Chicken House](http://strangehorizons.com/fiction/the-chicken-house/) by Jenny Fried
  - [The Constellations Are Unrecognizable Here](http://strangehorizons.com/fiction/the-constellations-are-unrecognizable-here/) by Andrew Joseph White
- - [The Demon Sage's Daughter](http://strangehorizons.com/fiction/the-demon-sages-daughter/) by Varsha DineshArt by: Emma Weakley
- - [The Giant with No Heart in Her Body](http://strangehorizons.com/fiction/the-giant-with-no-heart-in-her-body/) by Nike SulwayArt by: Elaine Ho
+ - [The Demon Sage's Daughter](http://strangehorizons.com/fiction/the-demon-sages-daughter/) by Varsha Dinesh
+ - [The Giant with No Heart in Her Body](http://strangehorizons.com/fiction/the-giant-with-no-heart-in-her-body/) by Nike Sulway
  - [The Golden Carrot](http://strangehorizons.com/fiction/the-golden-carrot/) by K. S. Shere
  - [The Loneliness of Former Constellations](http://strangehorizons.com/fiction/the-loneliness-of-former-constellations/) by P. H. Low
  - [The Thirteenth Knot](http://strangehorizons.com/fiction/the-thirteenth-knot/) by Yeonsoo Julian Kim
  - [The karyōbinga sings to Jiro](http://strangehorizons.com/fiction/the-karyobinga-sings-to-jiro/) by Ryu Ando
  - [Thread Count](http://strangehorizons.com/fiction/thread-count/) by Cynthia Gómez
- - [Tower of Ivory, Tower of Horn](http://strangehorizons.com/fiction/tower-of-ivory-tower-of-horn/) by Reno EvangelistaArt by: Grace Fong
+ - [Tower of Ivory, Tower of Horn](http://strangehorizons.com/fiction/tower-of-ivory-tower-of-horn/) by Reno Evangelista
  - [We Broke Nairobi](http://strangehorizons.com/fiction/we-broke-nairobi/) by Noel Cheruto
  - [What Floats in a Flotsam River](http://strangehorizons.com/fiction/what-floats-in-a-flotsam-river/) by Osahon Ize-Iyamu
  - [Wills](http://strangehorizons.com/fiction/wills/) by Wadih Haddad | وديع الحداد
@@ -320,7 +296,7 @@
  - [ارادات](http://strangehorizons.com/fiction/%d8%a7%d8%b1%d8%a7%d8%af%d8%a7%d8%aa/) by Wadih Haddad | وديع الحداد
 
 
-## Tor.com  
+## Tor.Com  
  - [#Selfcare](https://www.tor.com/2021/01/19/selfcare-annalee-newitz/) by Annalee Newitz
  - [#Spring Love, #Pichal Pairi](https://www.tor.com/2021/03/03/spring-love-pichal-pairi-usman-t-malik/) by Usman T. Malik
  - [A Better Way of Saying](https://www.tor.com/2021/11/10/a-better-way-of-saying/) by Sarah Pinsker
