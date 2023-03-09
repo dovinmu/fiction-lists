@@ -1,6 +1,420 @@
 
-##  
+## Apex 
+ - [A Country of Eternal Light](https://apex-magazine.com/short-fiction/a-country-of-eternal-light/) by Jennifer Donohue
+ - [A Monster in the Shape of a Boy](https://apex-magazine.com/short-fiction/a-monster-in-the-shape-of-a-boy/) by Hannah Yang
+ - [Americana!](https://apex-magazine.com/short-fiction/americana/) by Sam Asher
+ - [An Arc of Electric Skin](https://apex-magazine.com/short-fiction/an-arc-of-electric-skin/) by Wole Talabi
+ - [As the Sun Dies](https://apex-magazine.com/short-fiction/as-the-sun-dies/) by Jaym Gates
+ - [Brief Life Story of Lila](https://apex-magazine.com/short-fiction/brief-life-story-of-lila/) by Danny Cherry Jr.
+ - [Butirub](https://apex-magazine.com/short-fiction/butirub/) by Samit Basu
+ - [Chorus of Whispers](https://apex-magazine.com/short-fiction/chorus-of-whispers/) by Sarah Hans
+ - [City Lights](https://apex-magazine.com/short-fiction/city-lights/) by Yilun Fan
+ - [Creatures of the Dark Oasis](https://apex-magazine.com/short-fiction/creatures-of-the-dark-oasis/) by Bonnie Jo Stufflebeam
+ - [Have Mercy, My Love, While We Wait for the Thaw](https://apex-magazine.com/short-fiction/have-mercy-my-love-while-we-wait-for-the-thaw/) by Iori Kusano
+ - [Holiday Horrors Winner: Stringy](https://apex-magazine.com/short-fiction/holiday-horrors-winner-stringy/) by Carlie St. George
+ - [Holiday Horrors: Feast or Famine Rulebook](https://apex-magazine.com/short-fiction/holiday-horrors-feast-or-famine-rulebook/) by Anna Madden
+ - [Holiday Horrors: Triangle Eyes](https://apex-magazine.com/short-fiction/holiday-horrors-triangle-eyes/) by Chris Clemens
+ - [Hoodie](https://apex-magazine.com/short-fiction/hoodie/) by Tonya Liburd
+ - [In the Garden of Ibn Ghazi](https://apex-magazine.com/short-fiction/in-the-garden-of-ibn-ghazi/) by Molly Tanzer
+ - [In the Monster’s Mouth](https://apex-magazine.com/short-fiction/in-the-monsters-mouth/) by Tim Waggoner
+ - [It Rises and Falls and Rises Again](https://apex-magazine.com/short-fiction/it-rises-and-falls-and-rises-again/) by RJ Taylor
+ - [Kings and Popes and Saints](https://apex-magazine.com/short-fiction/kings-and-popes-and-saints/) by Jon Hansen
+ - [Lamia](https://apex-magazine.com/short-fiction/lamia/) by Cristina Jurado
+ - [Lamia](https://apex-magazine.com/short-fiction/lamia/) by Cristina Jurado
+ - [Learning to Accept What’s to Come](https://apex-magazine.com/short-fiction/learning-to-accept-whats-to-come/) by Scott Edelman
+ - [Nine Theories of Time](https://apex-magazine.com/short-fiction/nine-theories-of-time/) by Spencer Nitkey
+ - [Notes to a Version of Myself, Hidden in Symphonie fantastique Scores Throughout the Multiverse](https://apex-magazine.com/short-fiction/notes-to-a-version-of-myself-hidden-in-symphonie-fantastique-scores-throughout-the-multiverse/) by Aimee Picchi
+ - [Nothing That Bleeds](https://apex-magazine.com/short-fiction/nothing-that-bleeds/) by Leah Ning
+ - [O2 Arena](https://apex-magazine.com/short-fiction/o2-arena/) by Oghenechovwe Donald Ekpeki
+ - [Observations of a Small Object in Decaying Orbit](https://apex-magazine.com/short-fiction/observations-of-a-small-object-in-decaying-orbit/) by Margaret Dunlap
+ - [Observations of a Small Object in Decaying Orbit](https://apex-magazine.com/short-fiction/observations-of-a-small-object-in-decaying-orbit/) by Margaret Dunlap
+ - [On the Sunlit Side of Venus](https://apex-magazine.com/short-fiction/on-the-sunlit-side-of-venus/) by Benjamin Parzybok
+ - [Schlafstunde](https://apex-magazine.com/short-fiction/schlafstunde/) by Lavie Tidhar
+ - [Sheri, At This Very Moment](https://apex-magazine.com/short-fiction/sheri-at-this-very-moment/) by Bianca Sayan
+ - [Shevitsa](https://apex-magazine.com/short-fiction/shevitsa/) by Koji A. Dae
+ - [Simbiyu and the Nameless](https://apex-magazine.com/short-fiction/simbiyu-and-the-nameless/) by Eugen Bacon
+ - [Sky Boys](https://apex-magazine.com/short-fiction/sky-boys/) by Kameron Hurley
+ - [Something New for the Silent](https://apex-magazine.com/short-fiction/something-new-for-the-silent/) by ZZ Claybourne
+ - [Strata](https://apex-magazine.com/short-fiction/strata/) by Benjamin Blattberg
+ - [Ten Steps for Effective Mold Removal](https://apex-magazine.com/short-fiction/ten-steps-for-effective-mold-removal/) by Derrick Boden
+ - [Tenure](https://apex-magazine.com/short-fiction/tenure/) by Devon Mihesuah
+ - [That Rough-Hewn Sun](https://apex-magazine.com/short-fiction/that-rough-hewn-sun/) by Benjanun Sriduangkaew
+ - [The Cure for Loneliness](https://apex-magazine.com/short-fiction/the-cure-for-loneliness/) by M. Shaw
+ - [The Day When the Last War Is Over](https://apex-magazine.com/short-fiction/the-day-when-the-last-war-is-over/) by Sergey Gerasimov
+ - [The First Promise We Break](https://apex-magazine.com/short-fiction/the-first-promise-we-break/) by Risa Wolf
+ - [The Fruit of the Princess Tree](https://apex-magazine.com/short-fiction/the-fruit-of-the-princess-tree/) by Sage Tyrtle
+ - [The Healer](https://apex-magazine.com/short-fiction/the-healer/) by Jennifer Marie Brissett
+ - [The Satellite Charmer](https://apex-magazine.com/short-fiction/the-satellite-charmer/) by Mame Bougouma Diene
+ - [The Skinless Man Counts to Five](https://apex-magazine.com/short-fiction/the-skinless-man-counts-to-five/) by Paul Jessup
+ - [The Walking Mirror of the Soul](https://apex-magazine.com/short-fiction/the-walking-mirror-of-the-soul/) by Renan Bernardo
+ - [The Words](https://apex-magazine.com/short-fiction/the-words/) by Clelia Farris
+ - [To Live and Die in Dixieland](https://apex-magazine.com/short-fiction/to-live-and-die-in-dixieland/) by Russell Nichols
+ - [What Una Loves](https://apex-magazine.com/short-fiction/what-una-loves/) by Rich Larson
+ - [Your Space Between](https://apex-magazine.com/short-fiction/your-space-between/) by Marie Croke
 
-##  
 
+## Beneath Ceaseless Skies 
+ - [An Offer from the Fivefold God](https://www.beneath-ceaseless-skies.com/stories/an-offer-from-the-fivefold-god/) by Rachel Meresman
+ - [Author Interview: Queer Norms and Sexualities in R.B. Lemberg’s Birdverse](https://www.beneath-ceaseless-skies.com/interviews/author-interview-queer-norms-and-sexualities-in-r-b-lembergs-birdverse/) by In conjunction with the release of BCS author R.B. Lemberg's new novel The Unbalancing, Jaymee Goh of Tachyon Publications, the publisher of R.B.'s novella The Four Profound Weaves (2021) and The Unbalancing (2022), interviews R.B. about queer norms and sexualities in their Birdverse fantasy world, which is also the setting for R.B.'s five stories, novelettes, and novella that appeared in BCS.
+ - [But Mayflies on the Water, Gazing at the Sun](https://www.beneath-ceaseless-skies.com/stories/but-mayflies-on-the-water-gazing-at-the-sun/) by Jennifer DeLeskie
+ - [By Hand and By Heart](https://www.beneath-ceaseless-skies.com/stories/by-hand-and-by-heart/) by Tina Connolly
+ - [Fire and Brimstone in the Twin Cities](https://www.beneath-ceaseless-skies.com/stories/fire-and-brimstone-in-the-twin-cities/) by James Morrow
+ - [Five Aspects of River and Sky](https://www.beneath-ceaseless-skies.com/stories/five-aspects-of-river-and-sky/) by Adam R. Shannon
+ - [Forgotten Eyes](https://www.beneath-ceaseless-skies.com/stories/forgotten-eyes/) by Marie Vibbert
+ - [Half-Spent Was the Night](https://www.beneath-ceaseless-skies.com/stories/half-spent-was-the-night/) by Gretchen Tessmer
+ - [He Stays Among the Commots](https://www.beneath-ceaseless-skies.com/stories/he-stays-among-the-commots/) by Christopher Rowe
+ - [Her Mother, The Storm](https://www.beneath-ceaseless-skies.com/stories/her-mother-the-storm/) by Marie Croke
+ - [Imagine a Thief with Golden Fire in Their Voice](https://www.beneath-ceaseless-skies.com/stories/imagine-a-thief-with-golden-fire-in-their-voice/) by Riley Neither
+ - [Of the Body](https://www.beneath-ceaseless-skies.com/stories/of-the-body/) by Eugenia Triantafyllou
+ - [On Magog’s Pond](https://www.beneath-ceaseless-skies.com/stories/on-magogs-pond/) by Chris Willrich
+ - [On the Way Home](https://www.beneath-ceaseless-skies.com/stories/on-the-way-home/) by Laine Perez
+ - [Playing God](https://www.beneath-ceaseless-skies.com/stories/playing-god/) by K.J. Parker
+ - [The Angel Azrael and the War Ghosts](https://www.beneath-ceaseless-skies.com/stories/the-angel-azrael-and-the-war-ghosts/) by Peter Darbyshire
+ - [The Death Artist](https://www.beneath-ceaseless-skies.com/stories/the-death-artist/) by Adam Breckenridge
+ - [The Future Without the Past Is No Future At All](https://www.beneath-ceaseless-skies.com/stories/the-future-without-the-past-is-no-future-at-all/) by Todd Honeycutt
+ - [The Law of Sustenance](https://www.beneath-ceaseless-skies.com/stories/the-law-of-sustenance/) by Matt Hornsby
+ - [The Mountains My Bones, the Rivers My Blood](https://www.beneath-ceaseless-skies.com/stories/the-mountains-my-bones-the-rivers-my-blood/) by Y.M. Pang
+ - [Tithe the Bones, Sell the Blood](https://www.beneath-ceaseless-skies.com/stories/tithe-the-bones-sell-the-blood/) by Auston Habershaw
+ - [Troubling a Star](https://www.beneath-ceaseless-skies.com/stories/troubling-a-star/) by Andrew Dykstal
+ - [Turn To Stone Ourselves](https://www.beneath-ceaseless-skies.com/stories/turn-to-stone-ourselves/) by Marie Croke
+ - [Upon The Land](https://www.beneath-ceaseless-skies.com/stories/upon-the-land/) by H.M. Goodchild
+
+
+## Clarkesworld 
+ - [A Manual on Different Options of How to Bring A Loved One to Life](https://clarkesworldmagazine.com/muees_05_22) by Oyedotun Damilola Muees
+ - [A Stroll into Unfamiliar Worlds](https://clarkesworldmagazine.com/novakova_12_22) by Julie Nováková
+ - [Accountability, and Other Myths of Old Earth](https://clarkesworldmagazine.com/ogden_11_22) by Aimee Ogden
+ - [An Expression of Silence](https://clarkesworldmagazine.com/goder_04_22) by Beth Goder
+ - [An Urge To Create Honey](https://clarkesworldmagazine.com/cahill_04_22) by Martin Cahill
+ - [Art Block](https://clarkesworldmagazine.com/artbio_193) by Daniel Conway
+ - [Ashes](https://clarkesworldmagazine.com/artbio_187) by Yuumei
+ - [Babirusa](https://clarkesworldmagazine.com/ratnakar_02_22) by Arula Ratnakar
+ - [Between Chaos and Order: The (Un)predictability of Evolution](https://clarkesworldmagazine.com/novakova_10_22) by Julie Nováková
+ - [Bishop's Opening](https://clarkesworldmagazine.com/garcia_01_22) by R.S.A. Garcia
+ - [Border Run](https://clarkesworldmagazine.com/cade_09_22) by Octavia Cade
+ - [COVID-19 and the Mental Health Crisis](https://clarkesworldmagazine.com/dluzen_02_22) by Douglas F. Dluzen
+ - [Calf Cleaving in the Benthic Black](https://clarkesworldmagazine.com/kim_11_22) by Isabel J. Kim
+ - [Canvas of Life - Violet](https://clarkesworldmagazine.com/artbio_192) by Raja Nandepu
+ - [Canvas of Life - Yellow](https://clarkesworldmagazine.com/artbio_194) by Raja Nandepu
+ - [Carapace](https://clarkesworldmagazine.com/goodman_07_22) by David Goodman
+ - [Coding Van Gogh](https://clarkesworldmagazine.com/gao_10_22) by Elaine Gao
+ - [Commencement Address](https://clarkesworldmagazine.com/liu_03_22) by Arthur Liu, translated  Stella Jiayue Zhu
+ - [Company Town](https://clarkesworldmagazine.com/ogden_06_22) by Aimee Ogden
+ - [Doc Luckless and the Stationmistress](https://clarkesworldmagazine.com/dyer_04_22) by Thoraiya Dyer
+ - [Dream Factory](https://clarkesworldmagazine.com/egan_04_22) by Greg Egan
+ - [Editor’s Desk: 2021 in Review](https://clarkesworldmagazine.com/clarke_01_22) by Neil Clarke
+ - [Endings & Experimentations: Conversations with Bora Chung and Anton Hur](https://clarkesworldmagazine.com/chung_hur_interview) by Arley Sorg
+ - [Finding Endor: The Quest for Habitable Exomoons](https://clarkesworldmagazine.com/novakova_04_22) by Julie Nováková
+ - [Fly Free](https://clarkesworldmagazine.com/kubatiev_10_22) by Alan Kubatiev, translated  Alex Shvartsman
+ - [For Whom the Psychopomp Calls](https://clarkesworldmagazine.com/drnovsek-zorko_01_22) by Filip Hajdar Drnovšek Zorko
+ - [Gamma](https://clarkesworldmagazine.com/kallner_05_22) by Oskar Källner, translated  Gordon James Jones
+ - [Giant Fish](https://clarkesworldmagazine.com/chu_10_22) by Chu Shifan, translated  Stella Jiayue Zhu
+ - [Hanuman the Monkey King](https://clarkesworldmagazine.com/pan_04_22) by Pan Haitian, translated  Emily Jin
+ - [Hatching](https://clarkesworldmagazine.com/balder_05_22) by Bo Balder
+ - [Hummingbird, Resting on Honeysuckles](https://clarkesworldmagazine.com/yang_11_22) by Yang Wanqing, translated  Jay Zhang
+ - [Informed Consent Logs from the Soul Swap Clinic](https://clarkesworldmagazine.com/pauling_02_22) by Sarah Pauling
+ - [Inhuman Lovers](https://clarkesworldmagazine.com/chen_06_22) by Chen Qian, translated  Carmen Yiling Yan
+ - [It Takes a Village](https://clarkesworldmagazine.com/chand_03_22) by Priya Chand
+ - [Junk Hounds](https://clarkesworldmagazine.com/tidhar_10_22) by Lavie Tidhar
+ - [Keiki's Pitcher Plant](https://clarkesworldmagazine.com/castagnozzi_12_22) by Bri Castagnozzi
+ - [Kora Is Life](https://clarkesworldmagazine.com/levine_05_22) by David D. Levine
+ - [Law of Tongue](https://clarkesworldmagazine.com/kabir_12_22) by Naim Kabir
+ - [Learning to Hate Yourself as a Self-Defense Mechanism](https://clarkesworldmagazine.com/kriz_01_22) by Andrea Kriz
+ - [Left to Die](https://clarkesworldmagazine.com/singh_12_22) by Vandana Singh
+ - [Live Update](https://clarkesworldmagazine.com/prell_09_22) by Lettie Prell
+ - [Lost and Found](https://clarkesworldmagazine.com/clark_10_22) by M. L. Clark
+ - [Manjar dos Deuses](https://clarkesworldmagazine.com/martino_06_22) by Anna Martino
+ - [Marsbodies](https://clarkesworldmagazine.com/gardner_06_22) by Adele Gardner
+ - [Meddling Fields](https://clarkesworldmagazine.com/ester_03_22) by R.T. Ester
+ - [Migratory Patterns of the Modern American Skyscraper](https://clarkesworldmagazine.com/boden_08_22) by Derrick Boden
+ - [Murder by Pixel: Crime and Responsibility in the Digital Darkness](https://clarkesworldmagazine.com/huang_12_22) by S.L. Huang
+ - [No One at the Wild Dock](https://clarkesworldmagazine.com/gu_01_22) by Gu Shi, translated  S. Qiouyi Lu
+ - [Of Time and Travel](https://clarkesworldmagazine.com/pickett_05_22) by Galen T. Pickett
+ - [Pollatomish](https://clarkesworldmagazine.com/oreilly_08_22) by Finbarr O’Reilly
+ - [Polly and (Not) Charles Conquer the Solar System](https://clarkesworldmagazine.com/vaughn_08_22) by Carrie Vaughn
+ - [Rain of Days](https://clarkesworldmagazine.com/nayler_03_22) by Ray Nayler
+ - [Rebirth](https://clarkesworldmagazine.com/artbio_195) by Luca Monteleone
+ - [Red Sand Planet Sightseeing](https://clarkesworldmagazine.com/artbio_190) by Henrik Lundblad
+ - [Reef Renewal Foundation Bonaire: Hope on a Small Island](https://clarkesworldmagazine.com/king_07_22) by E.E. King
+ - [Return to Heaven 7](https://clarkesworldmagazine.com/artbio_184) by Zezhou Chen
+ - [Rivers Bend](https://clarkesworldmagazine.com/sallis_09_22) by James Sallis
+ - [Rondo for Strings and Lasergun](https://clarkesworldmagazine.com/adams_10_22) by Jared Oliver Adams
+ - [Saturn Devouring His Son](https://clarkesworldmagazine.com/mylonas_03_22) by EA Mylonas
+ - [Shining Bursa and the Listening Post](https://clarkesworldmagazine.com/pauling_09_22) by Sarah Pauling
+ - [Shrine of Nameless Stars](https://clarkesworldmagazine.com/artbio_188) by Daniel Ignacio
+ - [Slight Forms](https://clarkesworldmagazine.com/ester_08_22) by R.T. Ester
+ - [Sub-son](https://clarkesworldmagazine.com/singh_09_22) by Amal Singh
+ - [SurtiBot and Mister Oink](https://clarkesworldmagazine.com/artbio_186) by Alejandro Burdisio
+ - [Sweetbaby](https://clarkesworldmagazine.com/ha_10_22) by Thomas Ha
+ - [Talk](https://clarkesworldmagazine.com/artbio_185) by JC Jongwon Park
+ - [Tea Parties around Nebula-55](https://clarkesworldmagazine.com/grigore_05_22) by Adriana C. Grigore
+ - [Tender, Tether, Shell](https://clarkesworldmagazine.com/pettit_08_22) by M. J. Pettit
+ - [Termination Stories for the Cyberpunk Dystopia Protagonist](https://clarkesworldmagazine.com/kim_07_22) by Isabel J. Kim
+ - [The Art of Navigating an Affair in a Time Rift](https://clarkesworldmagazine.com/murphy_06_22) by Nika Murphy
+ - [The Carrion Droid, Zoe, and a Small Flame](https://clarkesworldmagazine.com/ragland_04_22) by Parker Ragland
+ - [The Direction of Clocks](https://clarkesworldmagazine.com/levine_02_22) by Jess Levine
+ - [The Dragon Project](https://clarkesworldmagazine.com/kritzer_03_22) by Naomi Kritzer
+ - [The Five Rules of Supernova Surfing or A For Real Solution to the Fermi Paradox, Bro](https://clarkesworldmagazine.com/cole_01_22) by Geoffrey W. Cole
+ - [The Forgotten](https://clarkesworldmagazine.com/boey_07_22) by Eliane Boey
+ - [The Lightness](https://clarkesworldmagazine.com/sobel_12_22) by Alex Sobel
+ - [The Lion and the Virgin](https://clarkesworldmagazine.com/kerr_01_22) by Megan J. Kerr
+ - [The Lonely Time Traveler of Kentish Town](https://clarkesworldmagazine.com/afifi_11_22) by Nadia Afifi
+ - [The Massage Lady at Munjeong Road Bathhouse](https://clarkesworldmagazine.com/kim_02_22) by Isabel J. Kim
+ - [The Memory of Water](https://clarkesworldmagazine.com/moore_03_22) by Tegan Moore
+ - [The Neuroscience of “Babirusa”](https://clarkesworldmagazine.com/ratnakar_11_22) by Arula Ratnakar
+ - [The Odyssey Problem](https://clarkesworldmagazine.com/willrich_06_22) by Chris Willrich
+ - [The Old Moon](https://clarkesworldmagazine.com/mcneil_02_22) by John McNeil
+ - [The Pirate's Consigliere](https://clarkesworldmagazine.com/balder_08_22) by Bo Balder
+ - [The Plasticity of Youth](https://clarkesworldmagazine.com/lingen_02_22) by Marissa Lingen
+ - [The Pod](https://clarkesworldmagazine.com/artbio_189) by Eddie Mendoza
+ - [The Possibly Brief Life of Guang Hansheng](https://clarkesworldmagazine.com/liang_05_22) by Liang Qingsan, translated  Andy Dudak
+ - [The Resting Place of Trees](https://clarkesworldmagazine.com/ghan_12_22) by Ben Berman Ghan
+ - [The Rhythm of the Soul](https://clarkesworldmagazine.com/john_11_22) by Michelle Julia John
+ - [The Sadness Box](https://clarkesworldmagazine.com/palmer_07_22) by Suzanne Palmer
+ - [The Scene of the Crime](https://clarkesworldmagazine.com/richardson_08_22) by Leonard Richardson
+ - [The Secret Strength of Things](https://clarkesworldmagazine.com/feeley_10_22) by Gregory Feeley
+ - [The Slow Deaths of Automobiles](https://clarkesworldmagazine.com/moore_09_22) by Fiona Moore
+ - [The Strange Girl](https://clarkesworldmagazine.com/xiu_07_22) by Xiu Xinyu, translated  Emily Jin
+ - [The Transfiguration of the Gardener Irene by the Dead Planet Hipea](https://clarkesworldmagazine.com/leblanc_11_22) by Ann LeBlanc
+ - [The Uncurling of Samsara](https://clarkesworldmagazine.com/dae_01_22) by Koji A. Dae
+ - [The Whelk](https://clarkesworldmagazine.com/auman_11_22) by Samara Auman
+ - [The White Tree of Gondor: A Brief Overview of Modern Ukrainian SF&F](https://clarkesworldmagazine.com/arenev_nazarenko_09_22) by Volodymyr Arenev and Mykhailo Nazarenko
+ - [Timekeepers' Symphony](https://clarkesworldmagazine.com/liu_09_22) by Ken Liu
+ - [To Be](https://clarkesworldmagazine.com/asi_07_22) by Ahmed Asi
+ - [To Bear Witness: The Polar Bear as Refugee in Speculative Fiction](https://clarkesworldmagazine.com/cade_08_22) by Octavia Cade
+ - [To Exorcise Mechanical Ghosts](https://clarkesworldmagazine.com/gaughan_12_22) by Laney Gaughan
+ - [Transport Walker](https://clarkesworldmagazine.com/artbio_191) by Hamish Frater
+ - [Two Spacesuits](https://clarkesworldmagazine.com/richardson_04_22) by Leonard Richardson
+ - [Upstart](https://clarkesworldmagazine.com/lu_12_22) by Lu Ban, translated  Blake Stone-Banks
+ - [Validating Rage: Women in Horror](https://clarkesworldmagazine.com/sessarego_03_22) by Carrie Sessarego
+ - [Visitors From Other Stars: The First Interstellar Objects](https://clarkesworldmagazine.com/barmby_06_22) by Pauline Barm
+ - [Wanting Things](https://clarkesworldmagazine.com/ritterhoff_03_22) by Cal Ritterhoff
+ - [Wants Pawn Term](https://clarkesworldmagazine.com/larson_05_22) by Rich Larson
+ - [We Built This City](https://clarkesworldmagazine.com/vibbert_06_22) by Marie Vibbert
+ - [You're Not the Only One](https://clarkesworldmagazine.com/cade_02_22) by Octavia Cade
+ - [Zero-g Zoo: Trying to Solve Reproduction in Space](https://clarkesworldmagazine.com/novakova_01_22) by Julie Nováková
+
+
+## Metamorphosis 
+ - [A Lie in the Sand](https://magazine.metaphorosis.com/story/2022/a-lie-in-the-sand-devin-miller/) by Devin Miller
+ - [A Xenothanatologist’s Guidebook to Death Practices Among the Sapient Species of the Outer Perseus Arm of the Milky Way Galaxy](https://magazine.metaphorosis.com/story/2022/a-xenothanatologists-guidebook-to-death-practices-among-the-sapient-species-of-the-outer-perseus-arm-of-the-milky-way-galaxy-p-g-streeter/) by P.G. Streeter
+ - [An Hour in the City of Lightning](https://magazine.metaphorosis.com/story/2022/an-hour-in-the-city-of-lightning-a-d-guzman/) by A.D. Guzman
+ - [Bas Relief](https://magazine.metaphorosis.com/story/2022/bas-relief-joshua-grasso/) by Joshua Grasso
+ - [By the Scars Shall You Know](https://magazine.metaphorosis.com/story/2022/by-the-scars-shall-you-know-daniel-ausema/) by Daniel Ausema
+ - [For the Love of Wild Things](https://magazine.metaphorosis.com/story/2022/for-the-love-of-wild-things-mande-matthews/) by Mande Matthews
+ - [Freely Given](https://magazine.metaphorosis.com/story/2022/freely-given-connor-mellegers/) by Connor Mellegers
+ - [From a Mother to Her Daughter, on the Eve of Her Wedding](https://magazine.metaphorosis.com/story/2022/from-a-mother-to-her-daughter-on-the-eve-of-her-wedding-elliott-gish/) by Elliott Gish
+ - [Frozen in Glass](https://magazine.metaphorosis.com/story/2022/frozen-in-glass-hope-davies/) by Hope Davies
+ - [Heartbeat of the Seasons](https://magazine.metaphorosis.com/story/2022/heartbeat-of-the-seasons-brian-hugenbruch/) by Brian Hugenbruch
+ - [Her Last Will](https://magazine.metaphorosis.com/story/2022/her-last-will-karl-el-koura/) by Karl El-Koura
+ - [Her Spirit Animal](https://magazine.metaphorosis.com/story/2022/her-spirit-animal-l-a-w-butler/) by L.A.W. Butler
+ - [Holding On](https://magazine.metaphorosis.com/story/2022/holding-on-justen-russell/) by Justen Russell
+ - [Hope on the Vine](https://magazine.metaphorosis.com/story/2022/hope-on-the-vine-r-e-dukalsky/) by R.E. Dukalsky
+ - [If Gold Runs Red](https://magazine.metaphorosis.com/story/2022/if-gold-runs-red-gordon-grice/) by Gordon Grice
+ - [Indicative of Future Results](https://magazine.metaphorosis.com/story/2022/indicative-of-future-results-c-h-rosenberg/) by C.H. Rosenberg
+ - [Infinite Possibilities I](https://magazine.metaphorosis.com/story/2022/infinite-possibilitiesi-michael-gardner/) by Michael Gardner
+ - [Infinite Possibilities II](https://magazine.metaphorosis.com/story/2022/infinite-possibilities-ii-michael-gardner/) by Michael Gardner
+ - [Infinite Possibilities III](https://magazine.metaphorosis.com/story/2022/infinite-possibilities-iii-michael-gardner/) by Michael Gardner
+ - [Infinite Possibilities IV](https://magazine.metaphorosis.com/story/2022/infinite-possibilities-iv-michael-gardner/) by Michael Gardner
+ - [Love, Death, and the Electric Soul](https://magazine.metaphorosis.com/story/2022/love-death-and-the-electric-soul-alexandra-peel/) by Alexandra Peel
+ - [Medusa Rising](https://magazine.metaphorosis.com/story/2022/medusa-rising-christine-lucas/) by Christine Lucas
+ - [Midnight’s Second Station](https://magazine.metaphorosis.com/story/2022/midnights-second-station-chloe-smith/) by Chloe Smith
+ - [Mission and Submission](https://magazine.metaphorosis.com/story/2022/mission-and-submission-will-gwaun/) by Will Gwaun
+ - [Packing List for Oblivion](https://magazine.metaphorosis.com/story/2023/packing-list-for-oblivion-cameron-bertron/) by Cameron Bertron
+ - [Portals and Other Lost Things](https://magazine.metaphorosis.com/story/2022/portals-and-other-lost-things-elizabeth-rankin/) by Elizabeth Rankin
+ - [Problems of the Flesh](https://magazine.metaphorosis.com/story/2022/problems-of-the-flesh-hamilton-perez/) by Hamilton Perez
+ - [Queen of Crows](https://magazine.metaphorosis.com/story/2022/queen-of-crows-rachel-ayers/) by Rachel Ayers
+ - [Since We Don’t Have Wings](https://magazine.metaphorosis.com/story/2022/since-we-dont-have-wings-gwen-whiting/) by Gwen Whiting
+ - [Snowman](https://magazine.metaphorosis.com/story/2022/snowman-han-whiteoak/) by Han Whiteoak
+ - [Sturm und Clang](https://magazine.metaphorosis.com/story/2022/sturm-und-clang-sara-kate-ellis/) by Sara Kate Ellis
+ - [Tashala’s Hair](https://magazine.metaphorosis.com/story/2022/tashalas-hair-richard-strachan/) by Richard Strachan
+ - [The Crystal Pyramid](https://magazine.metaphorosis.com/story/2022/the-crystal-pyramid-mia-ram/) by Mia Ram
+ - [The Diary of Thisne Ome](https://magazine.metaphorosis.com/story/2022/the-diary-of-thisne-ome-thomas-ouphe/) by Thomas Ouphe
+ - [The Dragon and the Unicorn](https://magazine.metaphorosis.com/story/2022/the-dragon-and-the-unicorn-wade-dargin/) by Wade Dargin
+ - [The Dragon’s Due](https://magazine.metaphorosis.com/story/2022/the-dragons-due-christopher-warden/) by Christopher Warden
+ - [The Eye of the Goddess](https://magazine.metaphorosis.com/story/2022/the-eye-of-the-goddess-samuel-parr/) by Samuel Parr
+ - [The Future in a Wash Basin](https://magazine.metaphorosis.com/story/2022/the-future-in-a-wash-basin-erin-keating/) by Erin Keating
+ - [The Ghosts of Daughters Possible](https://magazine.metaphorosis.com/story/2022/the-ghosts-of-daughters-possible-amman-sabet/) by Amman Sabet
+ - [The Girl Who Drew the World](https://magazine.metaphorosis.com/story/2022/the-girl-who-drew-the-world-l-d-oxford/) by L.D. Oxford
+ - [The Heebie-Jeebie Beam](https://magazine.metaphorosis.com/story/2022/the-heebie-jeebie-beam-e-c-fuller/) by E.C. Fuller
+ - [The Hissing Trees](https://magazine.metaphorosis.com/story/2022/the-hissing-trees-ian-donnell-arbuckle/) by Ian Donnell Arbuckle
+ - [The Knight Who Carried a Sword in His Heart](https://magazine.metaphorosis.com/story/2023/the-knight-who-carried-a-sword-in-his-heart-joshua-hagy/) by Joshua Hagy
+ - [The Last Doctor](https://magazine.metaphorosis.com/story/2022/the-last-doctor-jonathan-louis-duckworth/) by Jonathan Louis Duckworth
+ - [The Lost Library](https://magazine.metaphorosis.com/story/2022/the-lost-library-mahmud-el-sayed/) by Mahmud El Sayed
+ - [The Spinster and the Sea](https://magazine.metaphorosis.com/story/2022/the-spinster-and-the-sea-j-c-pillard/) by J.C. Pillard
+ - [The Year of the Bright Lands](https://magazine.metaphorosis.com/story/2022/the-year-of-the-bright-lands-felix-taylor/) by Felix Taylor
+ - [The Zoo Diaries I](https://magazine.metaphorosis.com/story/2023/the-zoo-diaries-i-frances-pauli/) by Frances Pauli
+ - [Through the Middle](https://magazine.metaphorosis.com/story/2022/through-the-middle-j-b-kish/) by J.B. Kish
+ - [Time, Wolf, Emit, Flow](https://magazine.metaphorosis.com/story/2022/time-wolf-emit-flow-anna-madden/) by Anna Madden
+ - [To the Wild Sea](https://magazine.metaphorosis.com/story/2022/to-the-wild-sea-b-morris-allen/) by B. Morris Allen
+ - [We, You, and the Gallery](https://magazine.metaphorosis.com/story/2023/we-you-and-the-gallery-alex-penland/) by Alex Penland
+
+
+## Nature Futures 
+ - [A girl invents a game](https://nature.com/articles/d41586-022-03381-5) by Ruth Joffre
+ - [A map of what comes next](https://nature.com/articles/d41586-022-04187-1) by Aimee Ogden
+ - [Again, still](https://nature.com/articles/d41586-022-03397-x) by Igor Teper
+ - [Conflict resolution](https://nature.com/articles/d41586-022-03272-9) by Holly Schofield
+ - [Dragon riders of CERN](https://nature.com/articles/d41586-022-03206-5) by Rachelle Wright
+ - [Entanglement](https://nature.com/articles/d41586-022-03734-0) by S. R. Algernon
+ - [Family get-together](https://nature.com/articles/d41586-022-04197-z) by Beth Cato
+ - [Fixing the rift](https://nature.com/articles/d41586-022-03733-1) by Timothy Mudie
+ - [Howling naked on the Moon](https://nature.com/articles/d41586-022-04189-z) by Todd Honeycutt
+ - [In response to your request for a modification to the atmosphere of break bulk cargo hold 17](https://nature.com/articles/d41586-022-03736-y) by Sylvia Spruck Wrigley
+ - [Location, velocity, end point](https://nature.com/articles/d41586-022-04191-5) by Matt Tighe
+ - [Merry Christmas from the Bremmers](https://nature.com/articles/d41586-022-04199-x) by Marissa Lingen
+ - [Orphans](https://nature.com/articles/d41586-022-03424-x) by Jonathan Sherwood
+ - [Potholes](https://nature.com/articles/d41586-022-03705-5) by Anna Zumbro
+ - [Star-crossed](https://nature.com/articles/d41586-022-03422-z) by Dianne Lee
+ - [The end of infinity](https://nature.com/articles/d41586-022-04193-3) by Filip Wiltgren
+ - [The family tree](https://nature.com/articles/d41586-022-03277-4) by Russell Nichols
+ - [The future will not be any% glitchless](https://nature.com/articles/d41586-022-03426-9) by Andrea Kriz
+ - [The last will and testament of the human race](https://nature.com/articles/d41586-022-03428-7) by Mark Vandersluis
+ - [Work, energy, heat](https://nature.com/articles/d41586-022-03420-1) by Tom Easton
+
+
+## Strange Horizons 
+ - [12 Things A Trini Should Know Before Travelling To A Back In Times Fete™](http://strangehorizons.com/fiction/12-things-a-trini-should-know-before-travelling-to-a-back-in-times-fete/) by R. S. A. Garcia
+ - [A City on Its Tentacles](http://strangehorizons.com/fiction/a-city-on-its-tentacles/) by R.B. Lemberg
+ - [A Love Letter Written at the Heat Death of the Universe](http://strangehorizons.com/fiction/a-love-letter-written-at-the-heat-death-of-the-universe/) by Aimee Ogden
+ - [A Song to SEA: an editorial](http://strangehorizons.com/fiction/a-song-to-sea-an-editorial/) by Joyce Chng Jaymee Goh May Chong
+ - [A Whistle on the Drum](http://strangehorizons.com/fiction/a-whistle-on-the-drum/) by Mir Plemmons
+ - [Annunciation](http://strangehorizons.com/fiction/annunciation/) by P. Akasaka
+ - [Ants and Wasps](http://strangehorizons.com/fiction/ants-and-wasps/) by Jay Jellicoe
+ - [B-ing](http://strangehorizons.com/fiction/b-ing/) by Crystal Odelle
+ - [Bee Season](http://strangehorizons.com/fiction/bee-season/) by Michelle Kulwicki
+ - [Bonesoup](http://strangehorizons.com/fiction/bonesoup/) by Eugenia TriantafyllouArt by: Dante Luiz
+ - [Born from the Drowning Forest](http://strangehorizons.com/fiction/born-from-the-drowning-forest/) by James RowlandArt by: Kaylee Rowena
+ - [Broken Blue](http://strangehorizons.com/fiction/broken-blue/) by E.M. Faulds
+ - [Call for Volunteer First Readers](http://strangehorizons.com/fiction/call-for-volunteer-first-readers/) by Strange Horizons
+ - [Clockwork Bayani](http://strangehorizons.com/fiction/clockwork-bayani/) by EK GonzalesArt by: Gianne Encarnacion
+ - [Coming Through in Waves](http://strangehorizons.com/fiction/coming-through-in-waves/) by Samantha Murray
+ - [Drosophila and the Beast](http://strangehorizons.com/fiction/drosophila-and-the-beast/) by Bryce Baron-Sips
+ - [Embroidery of a Bird’s Heart](http://strangehorizons.com/fiction/embroidery-of-a-birds-heart/) by Nelly Geraldine García-Rosas
+ - [Folk Hero Motifs in Tales Told by the Dead](http://strangehorizons.com/fiction/folk-hero-motifs-in-tales-told-by-the-dead/) by KT Bryski
+ - [Gentle Dragon Fires](http://strangehorizons.com/fiction/gentle-dragon-fires/) by T.K. Rex Lezlie KinyonArt by: Kring Demetrio
+ - [Heavy Possessions](http://strangehorizons.com/fiction/heavy-possessions/) by Seoung Kim
+ - [Her Merciful Components](http://strangehorizons.com/fiction/her-merciful-components/) by JV Choong
+ - [Intimacies](http://strangehorizons.com/fiction/intimacies/) by Filip Hajdar Drnovšek ZorkoArt by: Dominique Ramsey
+ - [Lay My Stomach On Your Scales](http://strangehorizons.com/fiction/lay-my-stomach-on-your-scales/) by Wen-yi Lee
+ - [Mother Hunger](http://strangehorizons.com/fiction/mother-hunger/) by Mary Maxfield
+ - [Mycelysis](http://strangehorizons.com/fiction/mycelysis/) by G.G. DinizArt by: C. A. P. Ward
+ - [Objects of Value](http://strangehorizons.com/fiction/objects-of-value/) by AnaMaria Curtis
+ - [Obsolesce](http://strangehorizons.com/fiction/obsolesce/) by Nadine Aurora Tabing
+ - [Our Heartstrings Howl the Moon](http://strangehorizons.com/fiction/our-heartstrings-howl-the-moon/) by Eleanna CastroianniArt by: Bokhari Mohamed
+ - [Palm Chess](http://strangehorizons.com/fiction/palm-chess/) by Gabrielle Lucille Fuentes
+ - [Reprise](http://strangehorizons.com/fiction/reprise/) by Samantha Lane Murphy
+ - [Sestu Hunts the Last Deer in Heaven](http://strangehorizons.com/fiction/sestu-hunts-the-last-deer-in-heaven/) by M. H. CheungArt by: Mateus Roberts
+ - [She Dreams of Moons and Moons](http://strangehorizons.com/fiction/she-dreams-of-moons-and-moons/) by Marisca PichetteArt by: Johnatan “Johncito” Marques
+ - [Sister, Silkie, Siren, Shark](http://strangehorizons.com/fiction/sister-silkie-siren-shark/) by Ariel Marken Jack
+ - [Spirochete](http://strangehorizons.com/fiction/spirochete/) by Anneke Schwob
+ - [That Old Sweet Water](http://strangehorizons.com/fiction/that-old-sweet-water/) by Rick Hollon
+ - [The Crow Husband](http://strangehorizons.com/fiction/the-crow-husband/) by Sarah McGill
+ - [The Destination Star](http://strangehorizons.com/fiction/the-destination-star/) by Gregory Marlow
+ - [The Elysian Job](http://strangehorizons.com/fiction/the-elysian-job/) by Margaret Ronald
+ - [The Gratitude of Mice](http://strangehorizons.com/fiction/the-gratitude-of-mice/) by Yume Kitasei
+ - [The Harp](http://strangehorizons.com/fiction/the-harp/) by E. A. PetriconeArt by: Racheal Bruce
+ - [The Heartless Woman](http://strangehorizons.com/fiction/the-heartless-woman/) by Shakirah Bourne
+ - [The Lifers](http://strangehorizons.com/fiction/the-lifers/) by Erin Innes
+ - [The Merry Abortion; or the Song of the Deed of Rue](http://strangehorizons.com/fiction/the-merry-abortion-or-the-song-of-the-deed-of-rue/) by Katy BondArt by: Elli Miles
+ - [The Miraculous Account of Khaja Bairaq, Pennant-Saint of Zabel](http://strangehorizons.com/fiction/the-miraculous-account-of-khaja-bairaq-pennant-saint-of-zabel/) by Tanvir Ahmed
+ - [The Pigeon Keeper|'s Daughter](http://strangehorizons.com/fiction/the-pigeon-keepers-daughter/) by Su-Yee Lin
+ - [The Poltergeist Rose: An Instructional Guide](http://strangehorizons.com/fiction/the-poltergeist-rose-an-instructional-guide/) by J.G. Lynas
+ - [The Soother of Sorrows](http://strangehorizons.com/fiction/the-soother-of-sorrows/) by Cat T.
+ - [Tusker Blue](http://strangehorizons.com/fiction/tusker-blue/) by Lalini Shanela Ranaraja
+ - [We, The Enchanted Castle](http://strangehorizons.com/fiction/we-the-enchanted-castle/) by Mae Juniper StokesArt by: Amelia Leonards
+ - [What Anger Breaks and Builds](http://strangehorizons.com/fiction/what-anger-breaks-and-builds/) by Devin MillerArt by: Alex PernauPodcast read by: Courtney Floyd
+ - [Wok Hei St](http://strangehorizons.com/fiction/wok-hei-st/) by Guan Un
+ - [You, Me, Her, You, Her, I](http://strangehorizons.com/fiction/you-me-her-you-her-i/) by Isabel J. Kim
+
+
+## Tor 
+ - [Arbitrium](https://www.tor.com/2022/05/25/arbitrium-anjali-sachdeva/) by Anjali Sachdeva
+ - [As Yet Unsent](https://www.tor.com/2022/06/08/as-yet-unsent-tamsyn-muir/) by Tamsyn Muir
+ - [Burning Books for Pleasure and Profit](https://www.tor.com/2022/12/14/burning-books-for-pleasure-and-profit-kj-parker/) by K.J. Parker
+ - [Choke](https://www.tor.com/2022/09/14/choke-suyi-davies-okungbowa/) by Suyi Davies Okungbowa
+ - [D.I.Y](https://www.tor.com/2022/08/24/d-i-y-john-wiswell/) by John Wiswell
+ - [Fruiting Bodies](https://www.tor.com/2022/01/12/fruiting-bodies-kemi-ashing-giwa/) by Kemi Ashing-Giwa
+ - [Girl Oil](https://www.tor.com/2022/02/22/girl-oil-grace-p-fong/) by Grace P. Fong
+ - [Grow](https://www.tor.com/2022/07/20/grow-carrie-vaughn/) by Carrie Vaughn
+ - [Hearts of Stone](https://www.tor.com/2022/05/18/hearts-of-stone-emma-newman/) by Emma Newman
+ - [How the Crown Prince of Jupiter Undid the Universe, or, The Full Fruit of Love’s Full Folly](https://www.tor.com/2022/10/12/how-the-crown-prince-of-jupiter-undid-the-universe-or-the-full-fruit-of-loves-full-folly-p-h-lee/) by P H Lee
+ - [Hush](https://www.tor.com/2022/03/09/hush-mary-anne-mohanraj/) by Mary Anne Mohanraj
+ - [I,
+ Cthulhu, or, What’s A Tentacle-Faced Thing Like Me Doing In A Sunken 
+City Like This (Latitude 47° 9′ S, Longitude 126° 43′ W)?](https://www.tor.com/2022/12/23/i-cthulhu-or-whats-a-tentacle-faced-thing-like-me-doing-in-a-sunken-city-like-this-latitude-47-9%e2%80%b2-s-longitude-126-43%e2%80%b2-w/) by Neil Gaiman
+ - [In Mercy, Rain](https://www.tor.com/2022/07/18/in-mercy-rain-seanan-mcguire/) by Seanan McGuire
+ - [India World](https://www.tor.com/2022/06/01/india-world-amit-gupta/) by Amit Gupta
+ - [Judge Dee and the Mystery of the Missing Manuscript](https://www.tor.com/2022/11/09/judge-dee-and-the-mystery-of-the-missing-manuscript-lavie-tidhar/) by Lavie Tidhar
+ - [Men, Women, and Chainsaws](https://www.tor.com/2022/04/20/men-women-and-chainsaws-stephen-graham-jones/) by Stephen Graham Jones
+ - [Of All the New Yorks in All the Worlds](https://www.tor.com/2022/10/19/of-all-the-new-yorks-in-all-the-worlds-indrapramit-das/) by Indrapramit Das
+ - [Porgee’s Boar](https://www.tor.com/2022/08/10/porgees-boar-jonathan-carroll/) by Jonathan Carroll
+ - [Quandary Aminu vs The Butterfly Man](https://www.tor.com/2022/09/21/quandary-aminu-vs-the-butterfly-rich-larson-man/) by Rich Larson
+ - [Seven Vampires: A Judge Dee Mystery](https://www.tor.com/2022/02/16/seven-vampires-a-judge-dee-mystery-lavie-tidhar/) by Lavie Tidhar
+ - [Skeleton Song](https://www.tor.com/2022/10/26/skeleton-song-seanan-mcguire/) by Seanan McGuire
+ - [Sword & Spore](https://www.tor.com/2022/04/06/686071-dominica-phetteplace/) by Dominica Phetteplace
+ - [Synthetic Perennial](https://www.tor.com/2022/02/22/synthetic-perennial-vivianni-glass/) by Vivianni Glass
+ - [The Chronologist](https://www.tor.com/2022/02/09/the-chronologist-ian-r-macleod/) by Ian R. MacLeod
+ - [The Difference Between Love and Time](https://www.tor.com/2022/11/23/the-difference-between-love-and-time-catherynne-m-valente/) by Catherynne M. Valente
+ - [The Dominion of Leviathan](https://www.tor.com/2022/04/13/the-dominion-of-leviathan-manish-melwani/) by Manish Melwani
+ - [The Last Truth](https://www.tor.com/2022/02/22/the-last-wish-ana-maria-curtis/) by AnaMaria Curtis
+ - [The Loneliness of the Long-Distance Reporter](https://www.tor.com/2022/03/16/the-loneliness-of-the-long-distance-reporter-daniela-tomova/) by Daniela Tomova
+ - [The Long View](https://www.tor.com/2022/04/27/the-long-view-susan-palwick/) by Susan Palwick
+ - [The Sisters of Saint Nicola of The Almost Perpetual Motion vs the Lurch](https://www.tor.com/2022/07/13/the-sisters-of-saint-nicola-of-the-almost-perpetual-motion-vs-the-lurch-garth-nix/) by Garth Nix
+ - [The Sufficient Loss Protocol](https://www.tor.com/2022/11/02/the-sufficient-loss-protocol-kemi-ashing-giwa/) by Kemi Ashing-Giwa
+ - [The Tale of Ak and Humanity](https://www.tor.com/2022/01/26/679273-the-tale-of-ak-and-humanity-yefim-zozulya/) by Yefim Zozulya
+ - [The Thief of Memory](https://www.tor.com/2022/08/31/697501-sunyi-dean/) by Sunyi Dean
+ - [This Place Is Best Shunned](https://www.tor.com/2022/07/27/this-place-is-best-shunned-david-erik-nelson/) by David Erik Nelson
+ - [Victory Citrus Is Sweet](https://www.tor.com/2022/09/07/victory-citrus-is-sweet-thoraiya-dyer/) by Thoraiya Dyer
+
+
+## Uncanny 
+ - [A Fall Counts Anywhere](https://www.uncannymagazine.com/article/a-fall-counts-anywhere/) by Catherynne M. Valente
+ - [As One Listens to the Rain](https://www.uncannymagazine.com/article/as-one-listens-to-the-rain/) by Andrea Chapela (translated by Emma Törzs)
+ - [At the Lighthouse Out by the Othersea](https://www.uncannymagazine.com/article/at-the-lighthouse-out-by-the-othersea/) by Juliet Kemp
+ - [Blessed Are the Healers](https://www.uncannymagazine.com/article/blessed-are-the-healers/) by K.S. Walker
+ - [Bones Are Stones for Building](https://www.uncannymagazine.com/article/bones-are-stones-for-building/) by Haralambi Markov
+ - [Boundless](https://www.uncannymagazine.com/article/boundless/) by Miyuki Jane Pinckard
+ - [Bramblewilde](https://www.uncannymagazine.com/article/bramblewilde/) by Jordan Taylor
+ - [Earth Dragon, Turning](https://www.uncannymagazine.com/article/earth-dragon-turning/) by Anya Ow
+ - [Family Cooking](https://www.uncannymagazine.com/article/family-cooking/) by AnaMaria Curtis
+ - [Fate, Hope, Friendship, Foe](https://www.uncannymagazine.com/article/fate-hope-friendship-foe/) by Marie Brennan
+ - [Flowerkicker](https://www.uncannymagazine.com/article/flowerkicker/) by Stephen Graham Jones
+ - [Girl, Cat, Wolf, Moon](https://www.uncannymagazine.com/article/girl-cat-wolf-moon/) by Rati Mehrotra
+ - [How to Safely Store Your Magical Artifacts After Saving the World](https://www.uncannymagazine.com/article/how-to-safely-store-your-magical-artifacts-after-saving-the-world/) by Tina Connolly
+ - [Hundred-Handed One](https://www.uncannymagazine.com/article/hundred-handed-one/) by Wen-yi Lee
+ - [I Will Have This Diamond for a Heart](https://www.uncannymagazine.com/article/i-will-have-this-diamond-for-a-heart/) by Carlos Hernandez
+ - [If You Find Yourself Speaking to God, Address God with the Informal You](https://www.uncannymagazine.com/article/if-you-find-yourself-speaking-to-god-address-god-with-the-informal-you/) by John Chu
+ - [Lily, the Immortal](https://www.uncannymagazine.com/article/lily-the-immortal/) by Kylie Lee Baker
+ - [Our Love Against Us](https://www.uncannymagazine.com/article/our-love-against-us/) by DaVaun Sanders
+ - [Rabbit Test](https://www.uncannymagazine.com/article/rabbit-test/) by Samantha Mills
+ - [Radcliffe Hall](https://www.uncannymagazine.com/article/radcliffe-hall/) by Miyuki Jane Pinckard
+ - [Requiem for a Dollface](https://www.uncannymagazine.com/article/requiem-for-a-dollface/) by Margaret Dunlap
+ - [Ribbons](https://www.uncannymagazine.com/article/ribbons/) by Natalia Theodoridou
+ - [Spirit Folks](https://www.uncannymagazine.com/article/spirit-folks/) by Maurice Broaddus and Rianna Butcher
+ - [The 207th Time I Went Back to March 9, 1980](https://www.uncannymagazine.com/article/the-207th-time-i-went-back-to-march-9-1980/) by Beth Cato
+ - [The Calcified Heart of Saint Ignace Battiste](https://www.uncannymagazine.com/article/the-calcified-heart-of-saint-ignace-battiste/) by Christopher Caldwell
+ - [The Clockwork Penguin Dreamed of Stars](https://www.uncannymagazine.com/article/the-clockwork-penguin-dreamed-of-stars/) by Caroline M. Yoachim
+ - [The Coward Who Stole God’s Name](https://www.uncannymagazine.com/article/the-coward-who-stole-gods-name/) by John Wiswell
+ - [The Eternal Cocktail Party of the Damned](https://www.uncannymagazine.com/article/the-eternal-cocktail-party-of-the-damned/) by Fonda Lee
+ - [The Goldfish Man](https://www.uncannymagazine.com/article/the-goldfish-man/) by Maureen McHugh
+ - [The Haunting of Dr. Claudius Winterson](https://www.uncannymagazine.com/article/the-haunting-of-dr-claudius-winterson/) by Sarah Monette
+ - [The Hurt Pattern](https://www.uncannymagazine.com/article/the-hurt-pattern/) by Tochi Onyebuchi
+ - [The Kaleidoscopic Visitor](https://www.uncannymagazine.com/article/the-kaleidoscopic-visitor/) by Shaoni C. White
+ - [The Night Dance](https://www.uncannymagazine.com/article/the-night-dance/) by Leah Cypess
+ - [The Other Side of Mictlān](https://www.uncannymagazine.com/article/the-other-side-of-mictlan/) by Matthew Olivas
+ - [The Path of Water](https://www.uncannymagazine.com/article/the-path-of-water/) by Emma Törzs
+ - [The Portal Keeper](https://www.uncannymagazine.com/article/the-portal-keeper/) by Lavie Tidhar
+ - [The Prince of Salt and the Ocean’s Bargain](https://www.uncannymagazine.com/article/the-prince-of-salt-and-the-oceans-bargain/) by Natalia Theodoridou
+ - [The Scholar of the Bamboo Flute](https://www.uncannymagazine.com/article/the-scholar-of-the-bamboo-flute/) by Aliette de Bodard
+ - [This Village](https://www.uncannymagazine.com/article/this-village/) by Eugenia Triantafyllou
+ - [To Hunger, As with Perfect Faith](https://www.uncannymagazine.com/article/to-hunger-as-with-perfect-faith/) by Radha Kai Zan
+ - [To Walk the River of Stars](https://www.uncannymagazine.com/article/to-walk-the-river-of-stars/) by Emily Y. Teng
+ - [Towered](https://www.uncannymagazine.com/article/towered/) by Tansy Rayner Roberts
+ - [Transference](https://www.uncannymagazine.com/article/transference/) by Vivian Shaw
+ - [Travelers’ Unrest](https://www.uncannymagazine.com/article/travelers-unrest/) by Nina Kiriki Hoffman
+ - [Two Hands, Wrapped in Gold](https://www.uncannymagazine.com/article/two-hands-wrapped-in-gold/) by S.B. Divya
+ - [Under Green](https://www.uncannymagazine.com/article/under-green/) by Richard Butner
+ - [Your Eyes, My Beacon: Being an Account of Several Misadventures and How I Found My Way Home](https://www.uncannymagazine.com/article/your-eyes-my-beacon-being-an-account-of-several-misadventures-and-how-i-found-my-way-home/) by C.L. Clark
+ - [can i offer you a nice egg in this trying time](https://www.uncannymagazine.com/article/can-i-offer-you-a-nice-egg-in-this-trying-time/) by Iori Kusano
 
