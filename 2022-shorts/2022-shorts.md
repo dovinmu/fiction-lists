@@ -283,29 +283,29 @@
  - [Ants and Wasps](http://strangehorizons.com/fiction/ants-and-wasps/) by Jay Jellicoe
  - [B-ing](http://strangehorizons.com/fiction/b-ing/) by Crystal Odelle
  - [Bee Season](http://strangehorizons.com/fiction/bee-season/) by Michelle Kulwicki
- - [Bonesoup](http://strangehorizons.com/fiction/bonesoup/) by Eugenia TriantafyllouArt by: Dante Luiz
- - [Born from the Drowning Forest](http://strangehorizons.com/fiction/born-from-the-drowning-forest/) by James RowlandArt by: Kaylee Rowena
+ - [Bonesoup](http://strangehorizons.com/fiction/bonesoup/) by Eugenia Triantafyllou
+ - [Born from the Drowning Forest](http://strangehorizons.com/fiction/born-from-the-drowning-forest/) by James Rowland
  - [Broken Blue](http://strangehorizons.com/fiction/broken-blue/) by E.M. Faulds
  - [Call for Volunteer First Readers](http://strangehorizons.com/fiction/call-for-volunteer-first-readers/) by Strange Horizons
- - [Clockwork Bayani](http://strangehorizons.com/fiction/clockwork-bayani/) by EK GonzalesArt by: Gianne Encarnacion
+ - [Clockwork Bayani](http://strangehorizons.com/fiction/clockwork-bayani/) by EK Gonzales
  - [Coming Through in Waves](http://strangehorizons.com/fiction/coming-through-in-waves/) by Samantha Murray
  - [Drosophila and the Beast](http://strangehorizons.com/fiction/drosophila-and-the-beast/) by Bryce Baron-Sips
  - [Embroidery of a Bird’s Heart](http://strangehorizons.com/fiction/embroidery-of-a-birds-heart/) by Nelly Geraldine García-Rosas
  - [Folk Hero Motifs in Tales Told by the Dead](http://strangehorizons.com/fiction/folk-hero-motifs-in-tales-told-by-the-dead/) by KT Bryski
- - [Gentle Dragon Fires](http://strangehorizons.com/fiction/gentle-dragon-fires/) by T.K. Rex Lezlie KinyonArt by: Kring Demetrio
+ - [Gentle Dragon Fires](http://strangehorizons.com/fiction/gentle-dragon-fires/) by T.K. Rex
  - [Heavy Possessions](http://strangehorizons.com/fiction/heavy-possessions/) by Seoung Kim
  - [Her Merciful Components](http://strangehorizons.com/fiction/her-merciful-components/) by JV Choong
- - [Intimacies](http://strangehorizons.com/fiction/intimacies/) by Filip Hajdar Drnovšek ZorkoArt by: Dominique Ramsey
+ - [Intimacies](http://strangehorizons.com/fiction/intimacies/) by Filip Hajdar Drnovšek Zorko
  - [Lay My Stomach On Your Scales](http://strangehorizons.com/fiction/lay-my-stomach-on-your-scales/) by Wen-yi Lee
  - [Mother Hunger](http://strangehorizons.com/fiction/mother-hunger/) by Mary Maxfield
- - [Mycelysis](http://strangehorizons.com/fiction/mycelysis/) by G.G. DinizArt by: C. A. P. Ward
+ - [Mycelysis](http://strangehorizons.com/fiction/mycelysis/) by G.G. Diniz
  - [Objects of Value](http://strangehorizons.com/fiction/objects-of-value/) by AnaMaria Curtis
  - [Obsolesce](http://strangehorizons.com/fiction/obsolesce/) by Nadine Aurora Tabing
- - [Our Heartstrings Howl the Moon](http://strangehorizons.com/fiction/our-heartstrings-howl-the-moon/) by Eleanna CastroianniArt by: Bokhari Mohamed
+ - [Our Heartstrings Howl the Moon](http://strangehorizons.com/fiction/our-heartstrings-howl-the-moon/) by Eleanna Castroianni
  - [Palm Chess](http://strangehorizons.com/fiction/palm-chess/) by Gabrielle Lucille Fuentes
  - [Reprise](http://strangehorizons.com/fiction/reprise/) by Samantha Lane Murphy
- - [Sestu Hunts the Last Deer in Heaven](http://strangehorizons.com/fiction/sestu-hunts-the-last-deer-in-heaven/) by M. H. CheungArt by: Mateus Roberts
- - [She Dreams of Moons and Moons](http://strangehorizons.com/fiction/she-dreams-of-moons-and-moons/) by Marisca PichetteArt by: Johnatan “Johncito” Marques
+ - [Sestu Hunts the Last Deer in Heaven](http://strangehorizons.com/fiction/sestu-hunts-the-last-deer-in-heaven/) by M. H. Cheung
+ - [She Dreams of Moons and Moons](http://strangehorizons.com/fiction/she-dreams-of-moons-and-moons/) by Marisca Pichette
  - [Sister, Silkie, Siren, Shark](http://strangehorizons.com/fiction/sister-silkie-siren-shark/) by Ariel Marken Jack
  - [Spirochete](http://strangehorizons.com/fiction/spirochete/) by Anneke Schwob
  - [That Old Sweet Water](http://strangehorizons.com/fiction/that-old-sweet-water/) by Rick Hollon
@@ -313,17 +313,17 @@
  - [The Destination Star](http://strangehorizons.com/fiction/the-destination-star/) by Gregory Marlow
  - [The Elysian Job](http://strangehorizons.com/fiction/the-elysian-job/) by Margaret Ronald
  - [The Gratitude of Mice](http://strangehorizons.com/fiction/the-gratitude-of-mice/) by Yume Kitasei
- - [The Harp](http://strangehorizons.com/fiction/the-harp/) by E. A. PetriconeArt by: Racheal Bruce
+ - [The Harp](http://strangehorizons.com/fiction/the-harp/) by E. A. Petricone
  - [The Heartless Woman](http://strangehorizons.com/fiction/the-heartless-woman/) by Shakirah Bourne
  - [The Lifers](http://strangehorizons.com/fiction/the-lifers/) by Erin Innes
- - [The Merry Abortion; or the Song of the Deed of Rue](http://strangehorizons.com/fiction/the-merry-abortion-or-the-song-of-the-deed-of-rue/) by Katy BondArt by: Elli Miles
+ - [The Merry Abortion; or the Song of the Deed of Rue](http://strangehorizons.com/fiction/the-merry-abortion-or-the-song-of-the-deed-of-rue/) by Katy Bond
  - [The Miraculous Account of Khaja Bairaq, Pennant-Saint of Zabel](http://strangehorizons.com/fiction/the-miraculous-account-of-khaja-bairaq-pennant-saint-of-zabel/) by Tanvir Ahmed
  - [The Pigeon Keeper|'s Daughter](http://strangehorizons.com/fiction/the-pigeon-keepers-daughter/) by Su-Yee Lin
  - [The Poltergeist Rose: An Instructional Guide](http://strangehorizons.com/fiction/the-poltergeist-rose-an-instructional-guide/) by J.G. Lynas
  - [The Soother of Sorrows](http://strangehorizons.com/fiction/the-soother-of-sorrows/) by Cat T.
  - [Tusker Blue](http://strangehorizons.com/fiction/tusker-blue/) by Lalini Shanela Ranaraja
- - [We, The Enchanted Castle](http://strangehorizons.com/fiction/we-the-enchanted-castle/) by Mae Juniper StokesArt by: Amelia Leonards
- - [What Anger Breaks and Builds](http://strangehorizons.com/fiction/what-anger-breaks-and-builds/) by Devin MillerArt by: Alex PernauPodcast read by: Courtney Floyd
+ - [We, The Enchanted Castle](http://strangehorizons.com/fiction/we-the-enchanted-castle/) by Mae Juniper Stokes
+ - [What Anger Breaks and Builds](http://strangehorizons.com/fiction/what-anger-breaks-and-builds/) by Devin Miller
  - [Wok Hei St](http://strangehorizons.com/fiction/wok-hei-st/) by Guan Un
  - [You, Me, Her, You, Her, I](http://strangehorizons.com/fiction/you-me-her-you-her-i/) by Isabel J. Kim
 
